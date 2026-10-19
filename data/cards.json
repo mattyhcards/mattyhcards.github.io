@@ -8271,7 +8271,9 @@
    "rc": false,
    "grade": null,
    "cert": null,
-   "tags": [],
+   "tags": [
+    "Starting Nine"
+   ],
    "top100": null,
    "acquired": "2026-10-06",
    "photos": {
@@ -8321,12 +8323,41 @@
     "label": ""
    },
    "cert": "3154873",
-   "tags": [],
+   "tags": [
+    "Starting Nine"
+   ],
    "top100": null,
    "acquired": "2026-10-12",
    "photos": {
     "front": "img/cards/MHC-1291/front.jpg",
     "frontThumb": "img/cards/MHC-1291/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1292",
+   "sport": "Football",
+   "player": "Santa Claus",
+   "team": "",
+   "year": "1991",
+   "set": "Pro Set",
+   "variation": "",
+   "cardNo": "",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-10-12",
+   "photos": {
+    "front": "img/cards/MHC-1292/front.jpg",
+    "frontThumb": "img/cards/MHC-1292/front-thumb.jpg"
    }
   }
  ]
