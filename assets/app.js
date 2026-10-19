@@ -11,7 +11,7 @@ const franchise = t => FRANCHISES[t] || t;
 const SPORT_ICONS = {};
 const SPORTS = ['Baseball', 'Football', 'Basketball', 'Hockey', 'Tennis', 'Pokemon', 'Other'];
 const teamsOf = c => String(c.team || '').split(' / ').map(t => t.trim()).filter(Boolean);
-const state = { q: '', tag: '', sport: '', team: '', year: '', set: '', graded: '', sort: 'year-desc' };
+const state = { q: '', tag: '', sport: '', team: '', year: '', set: '', graded: '', sort: 'player' };
 
 /* ---------- boot ---------- */
 Promise.all([
@@ -34,7 +34,7 @@ function readHash() {
 }
 function writeHash(card) {
   const p = new URLSearchParams();
-  for (const [k, v] of Object.entries(state)) if (v && !(k === 'sort' && v === 'year-desc')) p.set(k, v);
+  for (const [k, v] of Object.entries(state)) if (v && !(k === 'sort' && v === 'player')) p.set(k, v);
   if (card) p.set('card', card);
   const h = p.toString();
   history.replaceState(null, '', h ? '#' + h : location.pathname + location.search);
