@@ -1,0 +1,317 @@
+{
+ "generated": "2026-10-18",
+ "cards": [
+  {
+   "id": "MHC-0748",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2016",
+   "set": "Topps Opening Day",
+   "variation": "SSP \u00b7 Signing Autograph",
+   "cardNo": "OD-110",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "GMA",
+    "value": "10",
+    "label": ""
+   },
+   "cert": "821165074",
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-01-23",
+   "photos": {
+    "front": "img/cards/MHC-0748/front.jpg",
+    "frontThumb": "img/cards/MHC-0748/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0765",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "New York Mets",
+   "year": "2023",
+   "set": "Topps Stadium Club",
+   "variation": "Image Variation",
+   "cardNo": "85",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-02-14",
+   "photos": {
+    "front": "img/cards/MHC-0765/front.jpg",
+    "frontThumb": "img/cards/MHC-0765/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0766",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2018",
+   "set": "Topps Opening Day",
+   "variation": "SSP \u00b7 Sitting on Base",
+   "cardNo": "39",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-02-15",
+   "photos": {
+    "front": "img/cards/MHC-0766/front.jpg",
+    "frontThumb": "img/cards/MHC-0766/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0777",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "New York Mets",
+   "year": "2025",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "350",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "124038888",
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-03-06",
+   "photos": {
+    "front": "img/cards/MHC-0777/front.jpg",
+    "frontThumb": "img/cards/MHC-0777/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0803",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "New York Mets",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "650",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-03-30",
+   "photos": {
+    "front": "img/cards/MHC-0803/front.jpg",
+    "frontThumb": "img/cards/MHC-0803/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0804",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "New York Mets",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "123",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-03-31",
+   "photos": {
+    "front": "img/cards/MHC-0804/front.jpg",
+    "frontThumb": "img/cards/MHC-0804/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0831",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2019",
+   "set": "Topps Stadium Club",
+   "variation": "Image Variation",
+   "cardNo": "35",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-04-22",
+   "photos": {
+    "front": "img/cards/MHC-0831/front.jpg",
+    "frontThumb": "img/cards/MHC-0831/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0871",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2020",
+   "set": "Topps Stadium Club",
+   "variation": "Image Variation",
+   "cardNo": "191",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-05-24",
+   "photos": {
+    "front": "img/cards/MHC-0871/front.jpg",
+    "frontThumb": "img/cards/MHC-0871/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0916",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2017",
+   "set": "Topps Opening Day",
+   "variation": "World Series SSP",
+   "cardNo": "122",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-06-16",
+   "photos": {
+    "front": "img/cards/MHC-0916/front.jpg",
+    "frontThumb": "img/cards/MHC-0916/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0957",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2019",
+   "set": "Topps Opening Day",
+   "variation": "SSP \u00b7 Salute",
+   "cardNo": "84",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-07-02",
+   "photos": {
+    "front": "img/cards/MHC-0957/front.jpg",
+    "frontThumb": "img/cards/MHC-0957/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1121",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "New York Mets",
+   "year": "2023",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "450",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "100743284",
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-09-05",
+   "photos": {
+    "front": "img/cards/MHC-1121/front.jpg",
+    "frontThumb": "img/cards/MHC-1121/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1140",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "New York Mets",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Throwback",
+   "cardNo": "196",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-09-13",
+   "photos": {
+    "front": "img/cards/MHC-1140/front.jpg",
+    "frontThumb": "img/cards/MHC-1140/front-thumb.jpg"
+   }
+  }
+ ]
+}

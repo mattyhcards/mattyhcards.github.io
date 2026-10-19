@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Matty H Cards · The Collection</title>
+<meta name="description" content="The Matty H Cards collection: every card, photographed and catalogued.">
+<meta property="og:title" content="Matty H Cards · The Collection">
+<meta property="og:description" content="Browse the Matty H Cards collection by player, team, set and run.">
+<link rel="icon" type="image/png" href="assets/brand/mhc-logo.png">
+<link rel="preload" href="assets/fonts/montserrat-latin-900-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap topbar">
+    <a class="brand" href="#" aria-label="Matty H Cards home">
+      <img src="assets/brand/mhc-logo.png" alt="" width="44" height="44">
+      <span><b>Matty H Cards</b><small>The Collection</small></span>
+    </a>
+    <label class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      <input id="q" type="search" placeholder="Search player, team, set, year…" autocomplete="off" aria-label="Search the collection">
+    </label>
+  </div>
+  <div class="wrap chips" id="chips" role="tablist" aria-label="Collections"></div>
+  <div class="wrap filters">
+    <select id="f-sport" aria-label="Sport"></select>
+    <select id="f-team" aria-label="Team"></select>
+    <select id="f-year" aria-label="Year"></select>
+    <select id="f-set" aria-label="Set"></select>
+    <select id="f-graded" aria-label="Graded or raw">
+      <option value="">Graded + raw</option><option value="graded">Graded</option><option value="raw">Raw</option>
+    </select>
+    <select id="f-sort" aria-label="Sort">
+      <option value="year-desc">Newest first</option><option value="year-asc">Oldest first</option>
+      <option value="player">Player A–Z</option><option value="top">MHC Top 100 first</option>
+    </select>
+    <button class="reset" id="reset" hidden>Clear filters</button>
+    <span class="count" id="count"></span>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="grid" id="grid"></div>
+  <p class="empty" id="empty" hidden>No cards match that. <button id="empty-reset">Clear filters</button></p>
+</main>
+
+<footer class="foot wrap">
+  <img src="assets/brand/mhc-logo.png" alt="" width="34" height="34">
+  <span>Matty H Cards · Est. 2024 · <a href="https://www.instagram.com/mattyh_cards/" target="_blank" rel="noopener">@mattyh_cards</a></span>
+</footer>
+
+<div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Card viewer">
+  <div class="lb-bg" data-close></div>
+  <button class="lb-x" data-close aria-label="Close">✕</button>
+  <button class="lb-nav prev" id="lb-prev" aria-label="Previous">‹</button>
+  <div class="lb-stage">
+    <div class="lb-slide" id="lb-slide"></div>
+    <div class="lb-under">
+      <div class="lb-dots" id="lb-dots"></div>
+      <div class="lb-title" id="lb-title"></div>
+      <div class="lb-cards"><button id="lb-pcard" aria-label="Previous card">Prev card</button><span id="lb-pos"></span><button id="lb-ncard" aria-label="Next card">Next card</button></div>
+    </div>
+  </div>
+  <button class="lb-nav next" id="lb-next" aria-label="Next">›</button>
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
