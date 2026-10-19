@@ -10,7 +10,7 @@
 <link rel="icon" type="image/svg+xml" href="assets/brand/mhc-logo.svg">
 <link rel="alternate icon" type="image/png" href="assets/brand/mhc-logo.png">
 <link rel="preload" href="assets/fonts/montserrat-latin-900-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="assets/app.css?v=8">
+<link rel="stylesheet" href="assets/app.css?v=9">
 </head>
 <body>
 <header class="top">
@@ -25,7 +25,9 @@
     </label>
   </div>
   <div class="wrap chips" id="chips" role="tablist" aria-label="Collections"></div>
-  <div class="wrap filters">
+  <div class="wrap filters" id="filters">
+    <button class="ftoggle" id="ftoggle" type="button" aria-expanded="false" aria-controls="fsel"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>Filters<span id="fcount"></span></button>
+    <div class="fsel" id="fsel">
     <select id="f-sport" aria-label="Sport"></select>
     <select id="f-team" aria-label="Team"></select>
     <select id="f-year" aria-label="Year"></select>
@@ -38,6 +40,7 @@
       <option value="top">MHC Top 100 first</option>
     </select>
     <button class="reset" id="reset" hidden>Clear filters</button>
+    </div>
     <span class="count" id="count"></span>
   </div>
 </header>
@@ -67,6 +70,6 @@
   <button class="lb-nav next" id="lb-next" aria-label="Next">›</button>
 </div>
 
-<script src="assets/app.js?v=11"></script>
+<script src="assets/app.js?v=12"></script>
 </body>
 </html>

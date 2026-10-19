@@ -106,6 +106,8 @@ function render() {
   const active = state.q || state.tag || state.sport || state.team || state.year || state.set || state.graded;
   $('#reset').hidden = !active;
   $('#count').textContent = `${VIEW.length} of ${CARDS.length} cards`;
+  const nf = ['sport', 'team', 'year', 'set', 'graded'].filter(k => state[k]).length;
+  $('#fcount').textContent = nf ? nf : '';
   $('#empty').hidden = VIEW.length > 0;
   $('#grid').innerHTML = VIEW.map((c, i) => `
     <button class="tile" data-i="${i}" aria-label="${esc(c.player)}, ${esc(c.year)} ${esc(c.set)} ${esc(c.variation)}">
@@ -114,6 +116,7 @@ function render() {
     </button>`).join('');
   writeHash();
 }
+$('#ftoggle').onclick = () => { const f = $('#filters'), open = !f.classList.contains('open'); f.classList.toggle('open', open); $('#ftoggle').setAttribute('aria-expanded', String(open)); };
 $('#grid').addEventListener('click', e => { const t = e.target.closest('.tile'); if (t) openLB(+t.dataset.i, 0); });
 
 function photoHTML(c, thumb) {
