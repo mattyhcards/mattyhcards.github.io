@@ -17,7 +17,7 @@ const state = { q: '', tag: '', sport: '', team: '', year: '', set: '', graded: 
 Promise.all([
   fetch('data/cards.json', { cache: 'no-cache' }).then(r => r.json()),
   ...['ssp', 'rc', 'top100'].map(n => fetch(`assets/icons/${n}.svg`).then(r => r.text()).then(t => ICONS[n] = t)),
-  ...SPORTS.map(n => fetch(`assets/icons/sport-${n.toLowerCase()}.svg?v=1`).then(r => r.ok ? r.text() : '').then(t => SPORT_ICONS[n] = t).catch(() => {})),
+  ...SPORTS.map(n => fetch(`assets/icons/sport-${n.toLowerCase()}.svg?v=2`).then(r => r.ok ? r.text() : '').then(t => SPORT_ICONS[n] = t).catch(() => {})),
   fetch('data/team-logos.json').then(r => r.ok ? r.json() : {}).then(j => TEAMLOGOS = j).catch(() => {}),
   fetch('data/team-codes.json').then(r => r.ok ? r.json() : {}).then(j => TEAMCODES = j).catch(() => {}),
   fetch('data/franchises.json').then(r => r.ok ? r.json() : {}).then(j => FRANCHISES = j).catch(() => {})
