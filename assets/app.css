@@ -114,8 +114,9 @@ main{flex:1;padding-block:22px 40px}
 .frame .tag{font:800 9.5px var(--sans);letter-spacing:.16em;text-transform:uppercase;background:var(--ivory);color:var(--black);border:0;border-radius:99px;padding:6px 11px 5px;cursor:pointer}
 .frame .tag:hover{filter:brightness(.92)}
 .frame .no{font:500 10.5px var(--mono);letter-spacing:.06em;opacity:.8}
-.frame .fbody{flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;text-align:center;padding:24px 36px 0}
-.frame .tlogo{width:48px;height:48px;object-fit:contain;margin-bottom:16px}
+.frame .fbody{flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;text-align:center;padding:18px 36px 0}
+.frame .tlogo{width:56px;height:56px;flex:none;border-radius:50%;background:var(--ivory);display:grid;place-items:center;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.frame .tlogo img{width:36px;height:36px;object-fit:contain;display:block}
 .frame .name{font:900 40px/1 var(--sans);text-transform:uppercase;letter-spacing:-.005em}
 .frame .name.long{font-size:33px}.frame .name.xlong{font-size:27px}
 .frame .team{font:600 11.5px var(--sans);letter-spacing:.14em;text-transform:uppercase;margin-top:8px;opacity:.92}
@@ -127,7 +128,7 @@ main{flex:1;padding-block:22px 40px}
 .frame .num{font:500 11px var(--mono);margin-top:7px;opacity:.75;letter-spacing:.05em}
 .frame .acq{display:flex;align-items:center;gap:8px;margin-top:12px;margin-bottom:16px;border:1.5px solid rgba(255,255,239,.4);border-radius:99px;padding:5px 12px 5px 13px;font:500 10px var(--mono);letter-spacing:.06em;text-transform:uppercase}
 .frame .acq b{font:800 9.5px var(--sans);letter-spacing:.12em;padding-left:8px;border-left:1.5px solid rgba(255,255,239,.4)}
-.frame .hero{margin-top:auto;margin-bottom:50px;display:flex;flex-direction:column;align-items:center}
+.frame .hero{margin-top:auto;margin-bottom:34px;display:flex;flex-direction:column;align-items:center}
 .frame .icons{display:flex;gap:12px;justify-content:center;margin-bottom:12px}
 .frame .icons.big{gap:18px}.frame .icons.big .ic{width:66px;height:66px;--s:66px}
 .frame .cap{font:800 9.5px var(--sans);letter-spacing:.3em;margin-top:4px;text-transform:uppercase}
@@ -143,6 +144,8 @@ main{flex:1;padding-block:22px 40px}
 .frame .grade .t{display:flex;flex-direction:column;justify-content:center;padding:0 16px 0 13px;text-align:left}
 .frame .grade .t b{font:900 13.5px var(--sans);letter-spacing:.04em}
 .frame .grade .t span{font:500 10px var(--mono);opacity:.7;margin-top:2px}
-.frame .ffoot{height:58px;background:var(--ivory);position:relative;display:flex;align-items:flex-end;justify-content:center;padding-bottom:11px;flex:none}
-.frame .ffoot img{position:absolute;top:-28px;left:50%;transform:translateX(-50%);width:56px}
+.frame .ffoot{height:44px;background:var(--ivory);position:relative;display:flex;align-items:flex-end;justify-content:center;padding-bottom:9px;flex:none}
+.frame .ffoot img{position:absolute;top:-22px;left:50%;transform:translateX(-50%);width:46px}
 .frame .ffoot span{font:600 8.5px var(--sans);letter-spacing:.62em;color:var(--black);padding-left:.62em}
+
+.frame.dense .serial b{font-size:44px}.frame.dense .serial i{font-size:24px}.frame.dense .icons .ic{width:50px!important;height:50px!important;--s:50px!important}

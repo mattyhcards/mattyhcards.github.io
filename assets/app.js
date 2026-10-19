@@ -129,7 +129,7 @@ function frameColor(c) { return COLORS[(parseInt(c.id.replace(/\D/g, ''), 10) ||
 function infoFrame(c) {
   const name = c.player.length > 22 ? 'xlong' : c.player.length > 16 ? 'long' : '';
   const icons = iconList(c);
-  const logo = c.team && TEAMLOGOS[c.team] ? `<img class="tlogo" src="${esc(TEAMLOGOS[c.team])}" alt="">` : '';
+  const logo = c.team && TEAMLOGOS[c.team] ? `<span class="tlogo"><img src="${esc(TEAMLOGOS[c.team])}" alt="${esc(c.team)} logo"></span>` : '';
   let hero = '';
   const numbered = c.printRun && c.printRun <= 150;
   if (!c.grade && !c.printRun && icons.length) {
@@ -148,7 +148,8 @@ function infoFrame(c) {
       hero += `<div class="grade${psa ? ' psa' : ''}"><div class="g">${esc(c.grade.value)}</div><div class="t"><b>${esc(c.grade.grader)} ${esc(c.grade.label || c.grade.value)}</b><span>${c.cert ? 'CERT ' + esc(c.cert) : 'GRADED BY ' + esc(c.grade.grader)}</span></div></div>`;
     }
   }
-  return `<div class="frame-fit"><div class="frame ${frameColor(c)}">
+  const dense = icons.length && numbered && c.grade;
+  return `<div class="frame-fit"><div class="frame ${frameColor(c)}${dense ? ' dense' : ''}">
     <div class="ftop"><div class="tags">${(c.tags || []).map(t => `<button class="tag" data-tag="${esc(slug(t))}">${esc(t)}</button>`).join('')}</div><div class="no">NO. ${esc(c.id)}</div></div>
     <div class="fbody">${logo}<div class="name ${name}">${esc(c.player)}</div>${c.team ? `<div class="team">${esc(c.team)}</div>` : ''}<div class="rule"></div>
       <div class="yr">${esc(c.year)}</div><div class="set">${esc(c.set)}</div>${c.variation ? `<div class="var">${esc(c.variation)}</div>` : ''}
