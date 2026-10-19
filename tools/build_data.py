@@ -25,6 +25,9 @@ def parse_grade(g):
     g = (g or "").strip()
     if not g or g.lower() == "raw":
         return None
+    if re.search(r"auth", g, re.I):  # e.g. "PSA Authentic": authenticated, no number grade
+        grader = g.split()[0].upper()
+        return {"grader": grader, "value": "A", "label": "AUTHENTIC"}
     m = re.match(r"([A-Za-z]+)\s*([\d.]+)", g)
     if not m:
         return {"grader": g, "value": "", "label": g}
