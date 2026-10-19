@@ -8359,6 +8359,29 @@
     "front": "img/cards/MHC-1292/front.jpg",
     "frontThumb": "img/cards/MHC-1292/front-thumb.jpg"
    }
+  },
+  {
+   "id": "MHC-1301",
+   "sport": "Baseball",
+   "player": "Andrew McCutchen",
+   "team": "Pittsburgh Pirates",
+   "year": "2015",
+   "set": "Topps Opening Day",
+   "variation": "SSP",
+   "cardNo": "66b",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-08-15",
+   "photos": {
+    "front": "img/cards/MHC-1301/front.jpg",
+    "frontThumb": "img/cards/MHC-1301/front-thumb.jpg"
+   }
   }
  ]
 }
