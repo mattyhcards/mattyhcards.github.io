@@ -431,6 +431,64 @@
    }
   },
   {
+   "id": "MHC-0698",
+   "sport": "Football",
+   "player": "Calvin Johnson",
+   "team": "Detroit Lions",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "5",
+    "label": "EX"
+   },
+   "cert": "150116053",
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2025-11-18",
+   "photos": {
+    "front": "img/cards/MHC-0698/front.jpg",
+    "frontThumb": "img/cards/MHC-0698/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0703",
+   "sport": "Football",
+   "player": "Peyton Manning",
+   "team": "Indianapolis Colts",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "5",
+    "label": "EX"
+   },
+   "cert": "150116052",
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2025-11-25",
+   "photos": {
+    "front": "img/cards/MHC-0703/front.jpg",
+    "frontThumb": "img/cards/MHC-0703/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0706",
    "sport": "Baseball",
    "player": "Joe Ryan",
@@ -1231,6 +1289,31 @@
     "frontThumb": "img/cards/MHC-0811/front-thumb.jpg",
     "back": "img/cards/MHC-0811/back.jpg",
     "backThumb": "img/cards/MHC-0811/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0813",
+   "sport": "Football",
+   "player": "Troy Polomalu",
+   "team": "Pittsburgh Steelers",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "275",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2026-04-05",
+   "photos": {
+    "front": "img/cards/MHC-0813/front.jpg",
+    "frontThumb": "img/cards/MHC-0813/front-thumb.jpg"
    }
   },
   {
@@ -2343,6 +2426,31 @@
    }
   },
   {
+   "id": "MHC-0935",
+   "sport": "Football",
+   "player": "Larry Fitzgerald",
+   "team": "Arizona Cardinals",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "143",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2026-06-25",
+   "photos": {
+    "front": "img/cards/MHC-0935/front.jpg",
+    "frontThumb": "img/cards/MHC-0935/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0938",
    "sport": "Baseball",
    "player": "Elly De La Cruz",
@@ -3072,6 +3180,31 @@
    }
   },
   {
+   "id": "MHC-1052",
+   "sport": "Football",
+   "player": "Ladainian Tomlinson",
+   "team": "San Diego Chargers",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black \u00b7 Leaders",
+   "cardNo": "289",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2026-08-10",
+   "photos": {
+    "front": "img/cards/MHC-1052/front.jpg",
+    "frontThumb": "img/cards/MHC-1052/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1054",
    "sport": "Baseball",
    "player": "Joe Ryan",
@@ -3146,6 +3279,31 @@
    "photos": {
     "front": "img/cards/MHC-1066/front.jpg",
     "frontThumb": "img/cards/MHC-1066/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1068",
+   "sport": "Football",
+   "player": "Peyton Manning",
+   "team": "Indianapolis Colts",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2026-08-17",
+   "photos": {
+    "front": "img/cards/MHC-1068/front.jpg",
+    "frontThumb": "img/cards/MHC-1068/front-thumb.jpg"
    }
   },
   {
@@ -3578,6 +3736,31 @@
    }
   },
   {
+   "id": "MHC-1130",
+   "sport": "Football",
+   "player": "Roy Williams",
+   "team": "Dallas Cowboys",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2026-09-11",
+   "photos": {
+    "front": "img/cards/MHC-1130/front.jpg",
+    "frontThumb": "img/cards/MHC-1130/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1132",
    "sport": "Baseball",
    "player": "Reid Detmers",
@@ -3678,6 +3861,31 @@
    }
   },
   {
+   "id": "MHC-1138",
+   "sport": "Football",
+   "player": "Bob Sanders",
+   "team": "Indianapolis Colts",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "263",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2026-09-13",
+   "photos": {
+    "front": "img/cards/MHC-1138/front.jpg",
+    "frontThumb": "img/cards/MHC-1138/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1140",
    "sport": "Baseball",
    "player": "Francisco Lindor",
@@ -3754,6 +3962,56 @@
    "photos": {
     "front": "img/cards/MHC-1147/front.jpg",
     "frontThumb": "img/cards/MHC-1147/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1151",
+   "sport": "Football",
+   "player": "Felix Jones",
+   "team": "Dallas Cowboys",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2026-09-17",
+   "photos": {
+    "front": "img/cards/MHC-1151/front.jpg",
+    "frontThumb": "img/cards/MHC-1151/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1153",
+   "sport": "Football",
+   "player": "Cleo Lemon",
+   "team": "Jacksonville Jaguars",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "38",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2026-09-18",
+   "photos": {
+    "front": "img/cards/MHC-1153/front.jpg",
+    "frontThumb": "img/cards/MHC-1153/front-thumb.jpg"
    }
   },
   {
@@ -3882,6 +4140,31 @@
    }
   },
   {
+   "id": "MHC-1182",
+   "sport": "Football",
+   "player": "Eli Manning",
+   "team": "New York Giants",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black \u00b7 Super Bowl",
+   "cardNo": "",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2025-10-15",
+   "photos": {
+    "front": "img/cards/MHC-1182/front.jpg",
+    "frontThumb": "img/cards/MHC-1182/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1192",
    "sport": "Baseball",
    "player": "Willy Adames",
@@ -3958,6 +4241,31 @@
    "photos": {
     "front": "img/cards/MHC-1199/front.jpg",
     "frontThumb": "img/cards/MHC-1199/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1203",
+   "sport": "Football",
+   "player": "LaDainian Tomlinson",
+   "team": "San Diego Chargers",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "69",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2025-10-15",
+   "photos": {
+    "front": "img/cards/MHC-1203/front.jpg",
+    "frontThumb": "img/cards/MHC-1203/front-thumb.jpg"
    }
   },
   {
