@@ -2,6 +2,452 @@
  "generated": "2026-10-18",
  "cards": [
   {
+   "id": "MHC-0047",
+   "sport": "Baseball",
+   "player": "Corbin Carroll",
+   "team": "Arizona Diamondbacks",
+   "year": "2023",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "95",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "91111188",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-03-10",
+   "photos": {
+    "front": "img/cards/MHC-0047/front.jpg",
+    "frontThumb": "img/cards/MHC-0047/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0168",
+   "sport": "Baseball",
+   "player": "Ketel Marte",
+   "team": "Arizona Diamondbacks",
+   "year": "2023",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "369",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101686966",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-06-14",
+   "photos": {
+    "front": "img/cards/MHC-0168/front.jpg",
+    "frontThumb": "img/cards/MHC-0168/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0289",
+   "sport": "Baseball",
+   "player": "Yoenis Cespedes",
+   "team": "Oakland Athletics",
+   "year": "2012",
+   "set": "Topps Chrome",
+   "variation": "Autograph-Gold",
+   "cardNo": "180",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "105417784",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-10-25",
+   "photos": {
+    "front": "img/cards/MHC-0289/front.jpg",
+    "frontThumb": "img/cards/MHC-0289/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0407",
+   "sport": "Baseball",
+   "player": "Gunnar Henderson",
+   "team": "Baltimore Orioles",
+   "year": "2023",
+   "set": "Topps Dynasty",
+   "variation": "RPA",
+   "cardNo": "",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-01-14",
+   "photos": {
+    "front": "img/cards/MHC-0407/front.jpg",
+    "frontThumb": "img/cards/MHC-0407/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0428",
+   "sport": "Baseball",
+   "player": "Ketel Marte",
+   "team": "Arizona Diamondbacks",
+   "year": "2021",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "83",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "67799774",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-02-01",
+   "photos": {
+    "front": "img/cards/MHC-0428/front.jpg",
+    "frontThumb": "img/cards/MHC-0428/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0429",
+   "sport": "Baseball",
+   "player": "Ketel Marte",
+   "team": "Arizona Diamondbacks",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "163",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "117539475",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-02-01",
+   "photos": {
+    "front": "img/cards/MHC-0429/front.jpg",
+    "frontThumb": "img/cards/MHC-0429/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0443",
+   "sport": "Baseball",
+   "player": "Jared Jones",
+   "team": "Pittsburgh Pirates",
+   "year": "2024",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US49",
+   "printRun": 74,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "134844186",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-02-08",
+   "photos": {
+    "front": "img/cards/MHC-0443/front.jpg",
+    "frontThumb": "img/cards/MHC-0443/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0558",
+   "sport": "Baseball",
+   "player": "Jared Jones",
+   "team": "Pittsburgh Pirates",
+   "year": "2024",
+   "set": "Topps Heritage High Number",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-JO",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "117539479",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-05-17",
+   "photos": {
+    "front": "img/cards/MHC-0558/front.jpg",
+    "frontThumb": "img/cards/MHC-0558/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0579",
+   "sport": "Football",
+   "player": "Calvin Johnson",
+   "team": "Detroit Lions",
+   "year": "2013",
+   "set": "Topps",
+   "variation": "Legs Apart",
+   "cardNo": "250",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "134844176",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-06-06",
+   "photos": {
+    "front": "img/cards/MHC-0579/front.jpg",
+    "frontThumb": "img/cards/MHC-0579/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0594",
+   "sport": "Football",
+   "player": "Andre Johnson",
+   "team": "Houston Texans",
+   "year": "2011",
+   "set": "Topps",
+   "variation": "Red Jersey",
+   "cardNo": "250",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "134844174",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-07-10",
+   "photos": {
+    "front": "img/cards/MHC-0594/front.jpg",
+    "frontThumb": "img/cards/MHC-0594/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0619",
+   "sport": "Baseball",
+   "player": "Trevor Story",
+   "team": "Colorado Rockies",
+   "year": "2016",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "THC-707",
+   "printRun": 67,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-08-16",
+   "photos": {
+    "front": "img/cards/MHC-0619/front.jpg",
+    "frontThumb": "img/cards/MHC-0619/front-thumb.jpg",
+    "back": "img/cards/MHC-0619/back.jpg",
+    "backThumb": "img/cards/MHC-0619/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0661",
+   "sport": "Baseball",
+   "player": "Carlos Gonzalez",
+   "team": "Colorado Rockies",
+   "year": "2017",
+   "set": "Topps",
+   "variation": "SSP",
+   "cardNo": "425",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "134844164",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-10-03",
+   "photos": {
+    "front": "img/cards/MHC-0661/front.jpg",
+    "frontThumb": "img/cards/MHC-0661/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0706",
+   "sport": "Baseball",
+   "player": "Joe Ryan",
+   "team": "Minnesota Twins",
+   "year": "2022",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "390",
+   "printRun": 71,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "150116048",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-11-29",
+   "photos": {
+    "front": "img/cards/MHC-0706/front.jpg",
+    "frontThumb": "img/cards/MHC-0706/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0714",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2025",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "327",
+   "printRun": 74,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-12-13",
+   "photos": {
+    "front": "img/cards/MHC-0714/front.jpg",
+    "frontThumb": "img/cards/MHC-0714/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0725",
+   "sport": "Baseball",
+   "player": "Corbin Carroll",
+   "team": "Arizona Diamondbacks",
+   "year": "2023",
+   "set": "Topps Dynasty",
+   "variation": "RPA",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-01-02",
+   "photos": {
+    "front": "img/cards/MHC-0725/front.jpg",
+    "frontThumb": "img/cards/MHC-0725/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0737",
+   "sport": "Baseball",
+   "player": "Logan Webb",
+   "team": "San Francisco Giants",
+   "year": "2020",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "117",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-01-12",
+   "photos": {
+    "front": "img/cards/MHC-0737/front.jpg",
+    "frontThumb": "img/cards/MHC-0737/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0748",
    "sport": "Baseball",
    "player": "Francisco Lindor",
@@ -28,6 +474,81 @@
    "photos": {
     "front": "img/cards/MHC-0748/front.jpg",
     "frontThumb": "img/cards/MHC-0748/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0761",
+   "sport": "Baseball",
+   "player": "Victor Robles",
+   "team": "Seattle Mariners",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-02-13",
+   "photos": {
+    "front": "img/cards/MHC-0761/front.jpg",
+    "frontThumb": "img/cards/MHC-0761/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0762",
+   "sport": "Baseball",
+   "player": "Dylan Beavers",
+   "team": "Baltimore Orioles",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "339",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-02-13",
+   "photos": {
+    "front": "img/cards/MHC-0762/front.jpg",
+    "frontThumb": "img/cards/MHC-0762/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0763",
+   "sport": "Baseball",
+   "player": "Samuel Basallo",
+   "team": "Baltimore Orioles",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "104",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-02-13",
+   "photos": {
+    "front": "img/cards/MHC-0763/front.jpg",
+    "frontThumb": "img/cards/MHC-0763/front-thumb.jpg"
    }
   },
   {
@@ -81,6 +602,106 @@
    }
   },
   {
+   "id": "MHC-0768",
+   "sport": "Baseball",
+   "player": "Mason Miller",
+   "team": "Oakland Athletics",
+   "year": "2023",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "510",
+   "printRun": 74,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-02-24",
+   "photos": {
+    "front": "img/cards/MHC-0768/front.jpg",
+    "frontThumb": "img/cards/MHC-0768/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0771",
+   "sport": "Baseball",
+   "player": "Mackenzie Gore",
+   "team": "San Diego Padres",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-02-25",
+   "photos": {
+    "front": "img/cards/MHC-0771/front.jpg",
+    "frontThumb": "img/cards/MHC-0771/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0772",
+   "sport": "Baseball",
+   "player": "Shane Baz",
+   "team": "Tampa Bay Rays",
+   "year": "2022",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "421",
+   "printRun": 71,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-02-27",
+   "photos": {
+    "front": "img/cards/MHC-0772/front.jpg",
+    "frontThumb": "img/cards/MHC-0772/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0774",
+   "sport": "Baseball",
+   "player": "Freddy Peralta",
+   "team": "Milwaukee Brewers",
+   "year": "2018",
+   "set": "Topps",
+   "variation": "Vertical SSP",
+   "cardNo": "US39",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-03",
+   "photos": {
+    "front": "img/cards/MHC-0774/front.jpg",
+    "frontThumb": "img/cards/MHC-0774/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0777",
    "sport": "Baseball",
    "player": "Francisco Lindor",
@@ -107,6 +728,241 @@
    "photos": {
     "front": "img/cards/MHC-0777/front.jpg",
     "frontThumb": "img/cards/MHC-0777/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0781",
+   "sport": "Baseball",
+   "player": "Byron Buxton",
+   "team": "Minnesota Twins",
+   "year": "2015",
+   "set": "Topps Dynasty",
+   "variation": "RPA",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "BGS",
+    "value": "9.5",
+    "label": ""
+   },
+   "cert": "0010555109",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-08",
+   "photos": {
+    "front": "img/cards/MHC-0781/front.jpg",
+    "frontThumb": "img/cards/MHC-0781/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0786",
+   "sport": "Baseball",
+   "player": "Hunter Brown",
+   "team": "Houston Astros",
+   "year": "2023",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-14",
+   "photos": {
+    "front": "img/cards/MHC-0786/front.jpg",
+    "frontThumb": "img/cards/MHC-0786/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0787",
+   "sport": "Baseball",
+   "player": "Daniel Palencia",
+   "team": "Chicago Cubs",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-DPA",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-15",
+   "photos": {
+    "front": "img/cards/MHC-0787/front.jpg",
+    "frontThumb": "img/cards/MHC-0787/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0788",
+   "sport": "Baseball",
+   "player": "Paul Skenes",
+   "team": "Pittsburgh Pirates",
+   "year": "2024",
+   "set": "Topps Chrome Update",
+   "variation": "Gold Refractor",
+   "cardNo": "USC88",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101463774",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-15",
+   "photos": {
+    "front": "img/cards/MHC-0788/front.jpg",
+    "frontThumb": "img/cards/MHC-0788/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0794",
+   "sport": "Baseball",
+   "player": "Dylan Beavers",
+   "team": "Baltimore Orioles",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "339",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-21",
+   "photos": {
+    "front": "img/cards/MHC-0794/front.jpg",
+    "frontThumb": "img/cards/MHC-0794/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0796",
+   "sport": "Baseball",
+   "player": "Kyle Bradish",
+   "team": "Baltimore Orioles",
+   "year": "2022",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US66",
+   "printRun": 71,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-22",
+   "photos": {
+    "front": "img/cards/MHC-0796/front.jpg",
+    "frontThumb": "img/cards/MHC-0796/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0797",
+   "sport": "Baseball",
+   "player": "Jhonskey Noel",
+   "team": "Cleveland Guardians",
+   "year": "2025",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 76,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-23",
+   "photos": {
+    "front": "img/cards/MHC-0797/front.jpg",
+    "frontThumb": "img/cards/MHC-0797/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0798",
+   "sport": "Baseball",
+   "player": "Seiya Suzuki",
+   "team": "Chicago Cubs",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "505",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-25",
+   "photos": {
+    "front": "img/cards/MHC-0798/front.jpg",
+    "frontThumb": "img/cards/MHC-0798/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0801",
+   "sport": "Baseball",
+   "player": "Joe Ryan",
+   "team": "Minnesota Twins",
+   "year": "2022",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor Auto",
+   "cardNo": "RA-JR",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-03-26",
+   "photos": {
+    "front": "img/cards/MHC-0801/front.jpg",
+    "frontThumb": "img/cards/MHC-0801/front-thumb.jpg",
+    "back": "img/cards/MHC-0801/back.jpg",
+    "backThumb": "img/cards/MHC-0801/back-thumb.jpg"
    }
   },
   {
@@ -160,6 +1016,349 @@
    }
   },
   {
+   "id": "MHC-0805",
+   "sport": "Baseball",
+   "player": "Kyle Harrison",
+   "team": "San Francisco Giants",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-01",
+   "photos": {
+    "front": "img/cards/MHC-0805/front.jpg",
+    "frontThumb": "img/cards/MHC-0805/front-thumb.jpg",
+    "back": "img/cards/MHC-0805/back.jpg",
+    "backThumb": "img/cards/MHC-0805/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0806",
+   "sport": "Baseball",
+   "player": "Joe Ryan",
+   "team": "Minnesota Twins",
+   "year": "2022",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "48",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-02",
+   "photos": {
+    "front": "img/cards/MHC-0806/front.jpg",
+    "frontThumb": "img/cards/MHC-0806/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0809",
+   "sport": "Baseball",
+   "player": "Reid Detmers",
+   "team": "Los Angeles Angels",
+   "year": "2022",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "79",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-03",
+   "photos": {
+    "front": "img/cards/MHC-0809/front.jpg",
+    "frontThumb": "img/cards/MHC-0809/front-thumb.jpg",
+    "back": "img/cards/MHC-0809/back.jpg",
+    "backThumb": "img/cards/MHC-0809/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0810",
+   "sport": "Baseball",
+   "player": "Dylan Beavers",
+   "team": "Baltimore Orioles",
+   "year": "2026",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "",
+   "printRun": 77,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-03",
+   "photos": {
+    "front": "img/cards/MHC-0810/front.jpg",
+    "frontThumb": "img/cards/MHC-0810/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0811",
+   "sport": "Baseball",
+   "player": "Chase Burns",
+   "team": "Cincinnati Reds",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-04",
+   "photos": {
+    "front": "img/cards/MHC-0811/front.jpg",
+    "frontThumb": "img/cards/MHC-0811/front-thumb.jpg",
+    "back": "img/cards/MHC-0811/back.jpg",
+    "backThumb": "img/cards/MHC-0811/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0814",
+   "sport": "Baseball",
+   "player": "Kyle Harrison",
+   "team": "San Francisco Giants",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-KHA",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-06",
+   "photos": {
+    "front": "img/cards/MHC-0814/front.jpg",
+    "frontThumb": "img/cards/MHC-0814/front-thumb.jpg",
+    "back": "img/cards/MHC-0814/back.jpg",
+    "backThumb": "img/cards/MHC-0814/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0815",
+   "sport": "Baseball",
+   "player": "Blaze Alexander",
+   "team": "Arizona Diamondbacks",
+   "year": "2024",
+   "set": "Topps Chrome Update",
+   "variation": "Gold",
+   "cardNo": "USC53",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-08",
+   "photos": {
+    "front": "img/cards/MHC-0815/front.jpg",
+    "frontThumb": "img/cards/MHC-0815/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0816",
+   "sport": "Baseball",
+   "player": "Ceddanne Rafaela",
+   "team": "Boston Red Sox",
+   "year": "2024",
+   "set": "Topps Heritage High Number",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-CR",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "7",
+    "label": "NM"
+   },
+   "cert": "122227659",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-08",
+   "photos": {
+    "front": "img/cards/MHC-0816/front.jpg",
+    "frontThumb": "img/cards/MHC-0816/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0818",
+   "sport": "Baseball",
+   "player": "Cam Smith",
+   "team": "Houston Astros",
+   "year": "2025",
+   "set": "Topps Update",
+   "variation": "Golden Mirror",
+   "cardNo": "US298",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-06",
+   "photos": {
+    "front": "img/cards/MHC-0818/front.jpg",
+    "frontThumb": "img/cards/MHC-0818/front-thumb.jpg",
+    "back": "img/cards/MHC-0818/back.jpg",
+    "backThumb": "img/cards/MHC-0818/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0819",
+   "sport": "Baseball",
+   "player": "Shota Imanaga",
+   "team": "Chicago Cubs",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "564",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-10",
+   "photos": {
+    "front": "img/cards/MHC-0819/front.jpg",
+    "frontThumb": "img/cards/MHC-0819/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0823",
+   "sport": "Baseball",
+   "player": "Jeremiah Jackson",
+   "team": "Baltimore Orioles",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "277",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-13",
+   "photos": {
+    "front": "img/cards/MHC-0823/front.jpg",
+    "frontThumb": "img/cards/MHC-0823/front-thumb.jpg",
+    "back": "img/cards/MHC-0823/back.jpg",
+    "backThumb": "img/cards/MHC-0823/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0826",
+   "sport": "Baseball",
+   "player": "Emerson Hancock",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "320",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-15",
+   "photos": {
+    "front": "img/cards/MHC-0826/front.jpg",
+    "frontThumb": "img/cards/MHC-0826/front-thumb.jpg",
+    "back": "img/cards/MHC-0826/back.jpg",
+    "backThumb": "img/cards/MHC-0826/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0828",
+   "sport": "Baseball",
+   "player": "Jared Jones",
+   "team": "Pittsburgh Pirates",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "675",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-16",
+   "photos": {
+    "front": "img/cards/MHC-0828/front.jpg",
+    "frontThumb": "img/cards/MHC-0828/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0831",
    "sport": "Baseball",
    "player": "Francisco Lindor",
@@ -182,6 +1381,214 @@
    "photos": {
     "front": "img/cards/MHC-0831/front.jpg",
     "frontThumb": "img/cards/MHC-0831/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0838",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "62",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-27",
+   "photos": {
+    "front": "img/cards/MHC-0838/front.jpg",
+    "frontThumb": "img/cards/MHC-0838/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0839",
+   "sport": "Baseball",
+   "player": "Bailey Ober",
+   "team": "Minnesota Twins",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "536",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-28",
+   "photos": {
+    "front": "img/cards/MHC-0839/front.jpg",
+    "frontThumb": "img/cards/MHC-0839/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0842",
+   "sport": "Baseball",
+   "player": "Freddy Peralta",
+   "team": "Milwaukee Brewers",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "3",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-04-29",
+   "photos": {
+    "front": "img/cards/MHC-0842/front.jpg",
+    "frontThumb": "img/cards/MHC-0842/front-thumb.jpg",
+    "back": "img/cards/MHC-0842/back.jpg",
+    "backThumb": "img/cards/MHC-0842/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0853",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "12",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-12",
+   "photos": {
+    "front": "img/cards/MHC-0853/front.jpg",
+    "frontThumb": "img/cards/MHC-0853/front-thumb.jpg",
+    "back": "img/cards/MHC-0853/back.jpg",
+    "backThumb": "img/cards/MHC-0853/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0854",
+   "sport": "Football",
+   "player": "Jamal Lewis",
+   "team": "Baltimore Ravens",
+   "year": "2001",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 56,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-12",
+   "photos": {
+    "front": "img/cards/MHC-0854/front.jpg",
+    "frontThumb": "img/cards/MHC-0854/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0855",
+   "sport": "Baseball",
+   "player": "Jac Caglianone",
+   "team": "Kansas City Royals",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "138",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-12",
+   "photos": {
+    "front": "img/cards/MHC-0855/front.jpg",
+    "frontThumb": "img/cards/MHC-0855/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0862",
+   "sport": "Baseball",
+   "player": "Charlie Blackmon",
+   "team": "Colorado Rockies",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-16",
+   "photos": {
+    "front": "img/cards/MHC-0862/front.jpg",
+    "frontThumb": "img/cards/MHC-0862/front-thumb.jpg",
+    "back": "img/cards/MHC-0862/back.jpg",
+    "backThumb": "img/cards/MHC-0862/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0863",
+   "sport": "Baseball",
+   "player": "Joe Ryan",
+   "team": "Minnesota Twins",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-16",
+   "photos": {
+    "front": "img/cards/MHC-0863/front.jpg",
+    "frontThumb": "img/cards/MHC-0863/front-thumb.jpg",
+    "back": "img/cards/MHC-0863/back.jpg",
+    "backThumb": "img/cards/MHC-0863/back-thumb.jpg"
    }
   },
   {
@@ -210,6 +1617,387 @@
    }
   },
   {
+   "id": "MHC-0872",
+   "sport": "Baseball",
+   "player": "Andrew McCutchen",
+   "team": "Pittsburgh Pirates",
+   "year": "2025",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "42",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-24",
+   "photos": {
+    "front": "img/cards/MHC-0872/front.jpg",
+    "frontThumb": "img/cards/MHC-0872/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0874",
+   "sport": "Baseball",
+   "player": "Jacob Misiorowski",
+   "team": "Milwaukee Brewers",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "10",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-25",
+   "photos": {
+    "front": "img/cards/MHC-0874/front.jpg",
+    "frontThumb": "img/cards/MHC-0874/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0881",
+   "sport": "Baseball",
+   "player": "Sandy Alcantara",
+   "team": "Miami Marlins",
+   "year": "2018",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-SA",
+   "printRun": 69,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-28",
+   "photos": {
+    "front": "img/cards/MHC-0881/front.jpg",
+    "frontThumb": "img/cards/MHC-0881/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0882",
+   "sport": "Baseball",
+   "player": "Kyle Harrison",
+   "team": "San Francisco Giants",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Gold Auto",
+   "cardNo": "",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-28",
+   "photos": {
+    "front": "img/cards/MHC-0882/front.jpg",
+    "frontThumb": "img/cards/MHC-0882/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0885",
+   "sport": "Baseball",
+   "player": "Tobias Myers",
+   "team": "Milwaukee Brewers",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-30",
+   "photos": {
+    "front": "img/cards/MHC-0885/front.jpg",
+    "frontThumb": "img/cards/MHC-0885/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0888",
+   "sport": "Baseball",
+   "player": "Ketel Marte",
+   "team": "Seattle Mariners",
+   "year": "2016",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "73",
+   "printRun": 65,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-31",
+   "photos": {
+    "front": "img/cards/MHC-0888/front.jpg",
+    "frontThumb": "img/cards/MHC-0888/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0889",
+   "sport": "Baseball",
+   "player": "Ketel Marte",
+   "team": "Arizona Diamondbacks",
+   "year": "2020",
+   "set": "Topps Opening Day",
+   "variation": "Image Variation \u00b7 Fielding",
+   "cardNo": "",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-01",
+   "photos": {
+    "front": "img/cards/MHC-0889/front.jpg",
+    "frontThumb": "img/cards/MHC-0889/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0897",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "New York Mets",
+   "year": "2025",
+   "set": "Topps Update",
+   "variation": "Golden Mirror (Checklist)",
+   "cardNo": "US290",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-07",
+   "photos": {
+    "front": "img/cards/MHC-0897/front.jpg",
+    "frontThumb": "img/cards/MHC-0897/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0898",
+   "sport": "Baseball",
+   "player": "Adam Jones",
+   "team": "Baltimore Orioles",
+   "year": "2017",
+   "set": "Topps",
+   "variation": "Holding Telephone",
+   "cardNo": "495",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "104522314",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-07",
+   "photos": {
+    "front": "img/cards/MHC-0898/front.jpg",
+    "frontThumb": "img/cards/MHC-0898/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0904",
+   "sport": "Baseball",
+   "player": "Corbin Burnes",
+   "team": "Milwaukee Brewers",
+   "year": "2023",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "261",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-09",
+   "photos": {
+    "front": "img/cards/MHC-0904/front.jpg",
+    "frontThumb": "img/cards/MHC-0904/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0907",
+   "sport": "Baseball",
+   "player": "Byron Buxton",
+   "team": "Minnesota Twins",
+   "year": "2015",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-HBB",
+   "printRun": 66,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-11",
+   "photos": {
+    "front": "img/cards/MHC-0907/front.jpg",
+    "frontThumb": "img/cards/MHC-0907/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0908",
+   "sport": "Baseball",
+   "player": "Jackson Chourio",
+   "team": "Milwaukee Brewers",
+   "year": "2024",
+   "set": "Topps Dynasty",
+   "variation": "RPA",
+   "cardNo": "",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-11",
+   "photos": {
+    "front": "img/cards/MHC-0908/front.jpg",
+    "frontThumb": "img/cards/MHC-0908/front-thumb.jpg",
+    "back": "img/cards/MHC-0908/back.jpg",
+    "backThumb": "img/cards/MHC-0908/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0909",
+   "sport": "Baseball",
+   "player": "Heliot Ramos",
+   "team": "San Francisco Giants",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-12",
+   "photos": {
+    "front": "img/cards/MHC-0909/front.jpg",
+    "frontThumb": "img/cards/MHC-0909/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0914",
+   "sport": "Baseball",
+   "player": "Grady Sizemore",
+   "team": "Cleveland Indians",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Back to School",
+   "cardNo": "TB3",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-16",
+   "photos": {
+    "front": "img/cards/MHC-0914/front.jpg",
+    "frontThumb": "img/cards/MHC-0914/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0915",
+   "sport": "Baseball",
+   "player": "Logan Gilbert",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "543",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-16",
+   "photos": {
+    "front": "img/cards/MHC-0915/front.jpg",
+    "frontThumb": "img/cards/MHC-0915/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0916",
    "sport": "Baseball",
    "player": "Francisco Lindor",
@@ -235,6 +2023,212 @@
    }
   },
   {
+   "id": "MHC-0917",
+   "sport": "Baseball",
+   "player": "Jung Hoo Lee",
+   "team": "San Francisco Giants",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "541",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-17",
+   "photos": {
+    "front": "img/cards/MHC-0917/front.jpg",
+    "frontThumb": "img/cards/MHC-0917/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0924",
+   "sport": "Baseball",
+   "player": "Chandler Simpson",
+   "team": "Tampa Bay Rays",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "342",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-20",
+   "photos": {
+    "front": "img/cards/MHC-0924/front.jpg",
+    "frontThumb": "img/cards/MHC-0924/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0926",
+   "sport": "Baseball",
+   "player": "James Wood",
+   "team": "Washington Nationals",
+   "year": "2025",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "181",
+   "printRun": 74,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-21",
+   "photos": {
+    "front": "img/cards/MHC-0926/front.jpg",
+    "frontThumb": "img/cards/MHC-0926/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0938",
+   "sport": "Baseball",
+   "player": "Elly De La Cruz",
+   "team": "Cincinnati Reds",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "SSP",
+   "cardNo": "44",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "105761679",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-26",
+   "photos": {
+    "front": "img/cards/MHC-0938/front.jpg",
+    "frontThumb": "img/cards/MHC-0938/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0941",
+   "sport": "Baseball",
+   "player": "Brent Rooker",
+   "team": "Minnesota Twins",
+   "year": "2021",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 72,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-06-28",
+   "photos": {
+    "front": "img/cards/MHC-0941/front.jpg",
+    "frontThumb": "img/cards/MHC-0941/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0952",
+   "sport": "Baseball",
+   "player": "Yasiel Puig",
+   "team": "Los Angeles Dodgers",
+   "year": "2018",
+   "set": "Topps Opening Day",
+   "variation": "Dugout Peeks",
+   "cardNo": "",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-01",
+   "photos": {
+    "front": "img/cards/MHC-0952/front.jpg",
+    "frontThumb": "img/cards/MHC-0952/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0953",
+   "sport": "Baseball",
+   "player": "Grant Taylor",
+   "team": "Chicago White Sox",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "49",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-01",
+   "photos": {
+    "front": "img/cards/MHC-0953/front.jpg",
+    "frontThumb": "img/cards/MHC-0953/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0954",
+   "sport": "Baseball",
+   "player": "Byron Buxton",
+   "team": "Minnesota Twins",
+   "year": "2025",
+   "set": "Topps Dynasty",
+   "variation": "Vertical Patch Auto",
+   "cardNo": "DAPB-BBU2",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-01",
+   "photos": {
+    "front": "img/cards/MHC-0954/front.jpg",
+    "frontThumb": "img/cards/MHC-0954/front-thumb.jpg",
+    "back": "img/cards/MHC-0954/back.jpg",
+    "backThumb": "img/cards/MHC-0954/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0957",
    "sport": "Baseball",
    "player": "Francisco Lindor",
@@ -257,6 +2251,896 @@
    "photos": {
     "front": "img/cards/MHC-0957/front.jpg",
     "frontThumb": "img/cards/MHC-0957/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0958",
+   "sport": "Baseball",
+   "player": "Carlos Gomez",
+   "team": "Milwaukee Brewers",
+   "year": "2014",
+   "set": "Topps Heritage",
+   "variation": "Throwback",
+   "cardNo": "457",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "24669782",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-02",
+   "photos": {
+    "front": "img/cards/MHC-0958/front.jpg",
+    "frontThumb": "img/cards/MHC-0958/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0959",
+   "sport": "Baseball",
+   "player": "Bryce Miller",
+   "team": "Seattle Mariners",
+   "year": "2023",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "US178",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "110766463",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-02",
+   "photos": {
+    "front": "img/cards/MHC-0959/front.jpg",
+    "frontThumb": "img/cards/MHC-0959/front-thumb.jpg",
+    "back": "img/cards/MHC-0959/back.jpg",
+    "backThumb": "img/cards/MHC-0959/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0960",
+   "sport": "Baseball",
+   "player": "Matt Olson",
+   "team": "Oakland Athletics",
+   "year": "2017",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 68,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "64597106",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-02",
+   "photos": {
+    "front": "img/cards/MHC-0960/front.jpg",
+    "frontThumb": "img/cards/MHC-0960/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0961",
+   "sport": "Baseball",
+   "player": "Carlos Gonzalez",
+   "team": "Colorado Rockies",
+   "year": "2017",
+   "set": "Topps Heritage",
+   "variation": "Gold Refractor",
+   "cardNo": "THC-437",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-04",
+   "photos": {
+    "front": "img/cards/MHC-0961/front.jpg",
+    "frontThumb": "img/cards/MHC-0961/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0966",
+   "sport": "Baseball",
+   "player": "Edwin Encarnacion",
+   "team": "Cleveland Indians",
+   "year": "2019",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-06",
+   "photos": {
+    "front": "img/cards/MHC-0966/front.jpg",
+    "frontThumb": "img/cards/MHC-0966/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0967",
+   "sport": "Baseball",
+   "player": "Charlie Blackmon",
+   "team": "Colorado Rockies",
+   "year": "2019",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-06",
+   "photos": {
+    "front": "img/cards/MHC-0967/front.jpg",
+    "frontThumb": "img/cards/MHC-0967/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0980",
+   "sport": "Baseball",
+   "player": "Yordan Alvarez",
+   "team": "Houston Astros",
+   "year": "2020",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "276",
+   "printRun": 69,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "71164773",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-11",
+   "photos": {
+    "front": "img/cards/MHC-0980/front.jpg",
+    "frontThumb": "img/cards/MHC-0980/front-thumb.jpg",
+    "back": "img/cards/MHC-0980/back.jpg",
+    "backThumb": "img/cards/MHC-0980/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0981",
+   "sport": "Baseball",
+   "player": "Dean Kremer",
+   "team": "Baltimore Orioles",
+   "year": "2021",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 72,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-12",
+   "photos": {
+    "front": "img/cards/MHC-0981/front.jpg",
+    "frontThumb": "img/cards/MHC-0981/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0985",
+   "sport": "Baseball",
+   "player": "Brice Matthews",
+   "team": "Houston Astros",
+   "year": "2026",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 77,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-13",
+   "photos": {
+    "front": "img/cards/MHC-0985/front.jpg",
+    "frontThumb": "img/cards/MHC-0985/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0987",
+   "sport": "Baseball",
+   "player": "Pete Crow-Armstrong",
+   "team": "Chicago Cubs",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "114523034",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-14",
+   "photos": {
+    "front": "img/cards/MHC-0987/front.jpg",
+    "frontThumb": "img/cards/MHC-0987/front-thumb.jpg",
+    "back": "img/cards/MHC-0987/back.jpg",
+    "backThumb": "img/cards/MHC-0987/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0993",
+   "sport": "Baseball",
+   "player": "Hunter Greene",
+   "team": "Cincinnati Reds",
+   "year": "2022",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor Auto",
+   "cardNo": "",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "108838245",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-16",
+   "photos": {
+    "front": "img/cards/MHC-0993/front.jpg",
+    "frontThumb": "img/cards/MHC-0993/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0999",
+   "sport": "Baseball",
+   "player": "Andrew McCutchen",
+   "team": "Pittsburgh Pirates",
+   "year": "2018",
+   "set": "Topps Opening Day",
+   "variation": "SSP",
+   "cardNo": "",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-20",
+   "photos": {
+    "front": "img/cards/MHC-0999/front.jpg",
+    "frontThumb": "img/cards/MHC-0999/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1000",
+   "sport": "Baseball",
+   "player": "Weston Wilson",
+   "team": "Philadelphia Phillies",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-WW",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-20",
+   "photos": {
+    "front": "img/cards/MHC-1000/front.jpg",
+    "frontThumb": "img/cards/MHC-1000/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1001",
+   "sport": "Baseball",
+   "player": "Byron Buxton",
+   "team": "Minnesota Twins",
+   "year": "2015",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "203",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "44208585",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-20",
+   "photos": {
+    "front": "img/cards/MHC-1001/front.jpg",
+    "frontThumb": "img/cards/MHC-1001/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1008",
+   "sport": "Basketball",
+   "player": "Russell Westbrook",
+   "team": "Oklahoma City Thunder",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "199",
+   "printRun": 51,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "6",
+    "label": "EX-MT"
+   },
+   "cert": "83414425",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": 17,
+   "acquired": "2026-07-22",
+   "photos": {
+    "front": "img/cards/MHC-1008/front.jpg",
+    "frontThumb": "img/cards/MHC-1008/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1010",
+   "sport": "Baseball",
+   "player": "Grant Taylor",
+   "team": "Chicago White Sox",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "49",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-23",
+   "photos": {
+    "front": "img/cards/MHC-1010/front.jpg",
+    "frontThumb": "img/cards/MHC-1010/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1013",
+   "sport": "Baseball",
+   "player": "Devin Williams",
+   "team": "Milwaukee Brewers",
+   "year": "2020",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "DW",
+   "printRun": 71,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-26",
+   "photos": {
+    "front": "img/cards/MHC-1013/front.jpg",
+    "frontThumb": "img/cards/MHC-1013/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1020",
+   "sport": "Basketball",
+   "player": "Tre Johnson",
+   "team": "Washington Wizards",
+   "year": "2025-26",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "206",
+   "printRun": 68,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-07-29",
+   "photos": {
+    "front": "img/cards/MHC-1020/front.jpg",
+    "frontThumb": "img/cards/MHC-1020/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1036",
+   "sport": "Baseball",
+   "player": "Corbin Burnes",
+   "team": "Milwaukee Brewers",
+   "year": "2019",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "94",
+   "printRun": 67,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-04",
+   "photos": {
+    "front": "img/cards/MHC-1036/front.jpg",
+    "frontThumb": "img/cards/MHC-1036/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1054",
+   "sport": "Baseball",
+   "player": "Joe Ryan",
+   "team": "Minnesota Twins",
+   "year": "2022",
+   "set": "Topps Dynasty",
+   "variation": "RPA",
+   "cardNo": "",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-10",
+   "photos": {
+    "front": "img/cards/MHC-1054/front.jpg",
+    "frontThumb": "img/cards/MHC-1054/front-thumb.jpg",
+    "back": "img/cards/MHC-1054/back.jpg",
+    "backThumb": "img/cards/MHC-1054/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1059",
+   "sport": "Baseball",
+   "player": "Jordan Walker",
+   "team": "St. Louis Cardinals",
+   "year": "2023",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "344",
+   "printRun": 72,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-13",
+   "photos": {
+    "front": "img/cards/MHC-1059/front.jpg",
+    "frontThumb": "img/cards/MHC-1059/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1066",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2015",
+   "set": "Topps Dynasty",
+   "variation": "RPA",
+   "cardNo": "",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-16",
+   "photos": {
+    "front": "img/cards/MHC-1066/front.jpg",
+    "frontThumb": "img/cards/MHC-1066/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1069",
+   "sport": "Football",
+   "player": "Andre Johnson",
+   "team": "Houston Texans",
+   "year": "2011",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "250",
+   "printRun": 55,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-18",
+   "photos": {
+    "front": "img/cards/MHC-1069/front.jpg",
+    "frontThumb": "img/cards/MHC-1069/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1076",
+   "sport": "Baseball",
+   "player": "Cam Smith",
+   "team": "Houston Astros",
+   "year": "2025",
+   "set": "Topps Dynasty",
+   "variation": "RPA \u00b7 Silver",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-20",
+   "photos": {
+    "front": "img/cards/MHC-1076/front.jpg",
+    "frontThumb": "img/cards/MHC-1076/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1080",
+   "sport": "Baseball",
+   "player": "Shota Imanaga",
+   "team": "Chicago Cubs",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-22",
+   "photos": {
+    "front": "img/cards/MHC-1080/front.jpg",
+    "frontThumb": "img/cards/MHC-1080/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1086",
+   "sport": "Baseball",
+   "player": "Ceddanne Rafaela",
+   "team": "Boston Red Sox",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "313",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-23",
+   "photos": {
+    "front": "img/cards/MHC-1086/front.jpg",
+    "frontThumb": "img/cards/MHC-1086/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1090",
+   "sport": "Baseball",
+   "player": "Hunter Brown",
+   "team": "Houston Astros",
+   "year": "2023",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor Auto",
+   "cardNo": "RA-HBR",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-24",
+   "photos": {
+    "front": "img/cards/MHC-1090/front.jpg",
+    "frontThumb": "img/cards/MHC-1090/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1097",
+   "sport": "Baseball",
+   "player": "Freddy Peralta",
+   "team": "Milwaukee Brewers",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-26",
+   "photos": {
+    "front": "img/cards/MHC-1097/front.jpg",
+    "frontThumb": "img/cards/MHC-1097/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1108",
+   "sport": "Baseball",
+   "player": "Jeff McNeil",
+   "team": "Athletics",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "662",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-30",
+   "photos": {
+    "front": "img/cards/MHC-1108/front.jpg",
+    "frontThumb": "img/cards/MHC-1108/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1110",
+   "sport": "Baseball",
+   "player": "Jordan Lawlar",
+   "team": "Arizona Diamondbacks",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-JLA",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-31",
+   "photos": {
+    "front": "img/cards/MHC-1110/front.jpg",
+    "frontThumb": "img/cards/MHC-1110/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1111",
+   "sport": "Baseball",
+   "player": "Byron Buxton",
+   "team": "Minnesota Twins",
+   "year": "2023",
+   "set": "Topps Heritage",
+   "variation": "Chrome Gold Refractor",
+   "cardNo": "15",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-31",
+   "photos": {
+    "front": "img/cards/MHC-1111/front.jpg",
+    "frontThumb": "img/cards/MHC-1111/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1112",
+   "sport": "Baseball",
+   "player": "Colton Cowser",
+   "team": "Baltimore Orioles",
+   "year": "2024",
+   "set": "Topps Dynasty",
+   "variation": "RPA",
+   "cardNo": "",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-08-31",
+   "photos": {
+    "front": "img/cards/MHC-1112/front.jpg",
+    "frontThumb": "img/cards/MHC-1112/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1114",
+   "sport": "Baseball",
+   "player": "Bryan Reynolds",
+   "team": "Pittsburgh Pirates",
+   "year": "2020",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-BR",
+   "printRun": 71,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-01",
+   "photos": {
+    "front": "img/cards/MHC-1114/front.jpg",
+    "frontThumb": "img/cards/MHC-1114/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1120",
+   "sport": "Baseball",
+   "player": "Abner Uribe",
+   "team": "Milwaukee Brewers",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-05",
+   "photos": {
+    "front": "img/cards/MHC-1120/front.jpg",
+    "frontThumb": "img/cards/MHC-1120/front-thumb.jpg"
    }
   },
   {
@@ -289,6 +3173,181 @@
    }
   },
   {
+   "id": "MHC-1124",
+   "sport": "Baseball",
+   "player": "Jorge Soler",
+   "team": "Chicago Cubs",
+   "year": "2015",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 66,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-08",
+   "photos": {
+    "front": "img/cards/MHC-1124/front.jpg",
+    "frontThumb": "img/cards/MHC-1124/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1126",
+   "sport": "Baseball",
+   "player": "Bryan Reynolds",
+   "team": "Pittsburgh Pirates",
+   "year": "2023",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 74,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-09",
+   "photos": {
+    "front": "img/cards/MHC-1126/front.jpg",
+    "frontThumb": "img/cards/MHC-1126/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1129",
+   "sport": "Baseball",
+   "player": "Corbin Burnes",
+   "team": "Milwaukee Brewers",
+   "year": "2019",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 70,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-10",
+   "photos": {
+    "front": "img/cards/MHC-1129/front.jpg",
+    "frontThumb": "img/cards/MHC-1129/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1132",
+   "sport": "Baseball",
+   "player": "Reid Detmers",
+   "team": "Los Angeles Angels",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-11",
+   "photos": {
+    "front": "img/cards/MHC-1132/front.jpg",
+    "frontThumb": "img/cards/MHC-1132/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1133",
+   "sport": "Baseball",
+   "player": "Blaze Alexander",
+   "team": "Baltimore Orioles",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "515",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-11",
+   "photos": {
+    "front": "img/cards/MHC-1133/front.jpg",
+    "frontThumb": "img/cards/MHC-1133/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1136",
+   "sport": "Baseball",
+   "player": "Tyler O'Neill",
+   "team": "Baltimore Orioles",
+   "year": "2026",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "433",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-13",
+   "photos": {
+    "front": "img/cards/MHC-1136/front.jpg",
+    "frontThumb": "img/cards/MHC-1136/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1137",
+   "sport": "Baseball",
+   "player": "Maikel Garcia",
+   "team": "Kansas City Royals",
+   "year": "2023",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "US144",
+   "printRun": 72,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-13",
+   "photos": {
+    "front": "img/cards/MHC-1137/front.jpg",
+    "frontThumb": "img/cards/MHC-1137/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1140",
    "sport": "Baseball",
    "player": "Francisco Lindor",
@@ -311,6 +3370,289 @@
    "photos": {
     "front": "img/cards/MHC-1140/front.jpg",
     "frontThumb": "img/cards/MHC-1140/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1142",
+   "sport": "Baseball",
+   "player": "Yu Darvish",
+   "team": "Texas Rangers",
+   "year": "2015",
+   "set": "Topps Heritage",
+   "variation": "Throwback",
+   "cardNo": "497",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-15",
+   "photos": {
+    "front": "img/cards/MHC-1142/front.jpg",
+    "frontThumb": "img/cards/MHC-1142/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1147",
+   "sport": "Baseball",
+   "player": "Jackson Merrill",
+   "team": "San Diego Padres",
+   "year": "2024",
+   "set": "Topps Update",
+   "variation": "Golden Mirror",
+   "cardNo": "US210",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8.5",
+    "label": ""
+   },
+   "cert": "126599353",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-16",
+   "photos": {
+    "front": "img/cards/MHC-1147/front.jpg",
+    "frontThumb": "img/cards/MHC-1147/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1155",
+   "sport": "Baseball",
+   "player": "Justin Martinez",
+   "team": "Arizona Diamondbacks",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Gold",
+   "cardNo": "159",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-18",
+   "photos": {
+    "front": "img/cards/MHC-1155/front.jpg",
+    "frontThumb": "img/cards/MHC-1155/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1160",
+   "sport": "Baseball",
+   "player": "Carlos Gonzalez",
+   "team": "Oakland Athletics",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "UH146",
+   "printRun": 57,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-21",
+   "photos": {
+    "front": "img/cards/MHC-1160/front.jpg",
+    "frontThumb": "img/cards/MHC-1160/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1168",
+   "sport": "Baseball",
+   "player": "Ozzie Albies",
+   "team": "Atlanta Braves",
+   "year": "2018",
+   "set": "Topps",
+   "variation": "SSP \u00b7 Hand Up",
+   "cardNo": "276",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-24",
+   "photos": {
+    "front": "img/cards/MHC-1168/front.jpg",
+    "frontThumb": "img/cards/MHC-1168/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1171",
+   "sport": "Baseball",
+   "player": "Coby Mayo",
+   "team": "Baltimore Orioles",
+   "year": "2025",
+   "set": "Bowman Chrome",
+   "variation": "Image Variation Auto",
+   "cardNo": "",
+   "printRun": 25,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-25",
+   "photos": {
+    "front": "img/cards/MHC-1171/front.jpg",
+    "frontThumb": "img/cards/MHC-1171/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1179",
+   "sport": "Baseball",
+   "player": "Grant Taylor",
+   "team": "Chicago White Sox",
+   "year": "2026",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-GT",
+   "printRun": 77,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-29",
+   "photos": {
+    "front": "img/cards/MHC-1179/front.jpg",
+    "frontThumb": "img/cards/MHC-1179/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1192",
+   "sport": "Baseball",
+   "player": "Willy Adames",
+   "team": "Tampa Bay Rays",
+   "year": "2018",
+   "set": "Topps Chrome",
+   "variation": "Rookie Auto Gold Refractor",
+   "cardNo": "RA-WA",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-02-02",
+   "photos": {
+    "front": "img/cards/MHC-1192/front.jpg",
+    "frontThumb": "img/cards/MHC-1192/front-thumb.jpg",
+    "back": "img/cards/MHC-1192/back.jpg",
+    "backThumb": "img/cards/MHC-1192/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1194",
+   "sport": "Baseball",
+   "player": "Anthony Santander",
+   "team": "Baltimore Orioles",
+   "year": "2018",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "433",
+   "printRun": 67,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": null,
+   "photos": {
+    "front": "img/cards/MHC-1194/front.jpg",
+    "frontThumb": "img/cards/MHC-1194/front-thumb.jpg",
+    "back": "img/cards/MHC-1194/back.jpg",
+    "backThumb": "img/cards/MHC-1194/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1199",
+   "sport": "Baseball",
+   "player": "Shane Baz",
+   "team": "Tampa Bay Rays",
+   "year": "2022",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-02-17",
+   "photos": {
+    "front": "img/cards/MHC-1199/front.jpg",
+    "frontThumb": "img/cards/MHC-1199/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1277",
+   "sport": "Baseball",
+   "player": "Yordan Alvarez",
+   "team": "Houston Astros",
+   "year": "2020",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-YA",
+   "printRun": 71,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-10-01",
+   "photos": {
+    "front": "img/cards/MHC-1277/front.jpg",
+    "frontThumb": "img/cards/MHC-1277/front-thumb.jpg"
    }
   }
  ]
