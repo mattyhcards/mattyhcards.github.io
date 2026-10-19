@@ -8,6 +8,8 @@ const COLORS = ['o', 'g', 'r', 'k'];
 
 let CARDS = [], VIEW = [], ICONS = {}, TEAMLOGOS = {}, TEAMCODES = {}, FRANCHISES = {};
 const franchise = t => FRANCHISES[t] || t;
+const SPORT_ICONS = {};
+const SPORTS = ['Baseball', 'Football', 'Basketball', 'Hockey', 'Tennis', 'Pokemon', 'Other'];
 const teamsOf = c => String(c.team || '').split(' / ').map(t => t.trim()).filter(Boolean);
 const state = { q: '', tag: '', sport: '', team: '', year: '', set: '', graded: '', sort: 'year-desc' };
 
@@ -15,6 +17,7 @@ const state = { q: '', tag: '', sport: '', team: '', year: '', set: '', graded: 
 Promise.all([
   fetch('data/cards.json', { cache: 'no-cache' }).then(r => r.json()),
   ...['ssp', 'rc', 'top100'].map(n => fetch(`assets/icons/${n}.svg`).then(r => r.text()).then(t => ICONS[n] = t)),
+  ...SPORTS.map(n => fetch(`assets/icons/sport-${n.toLowerCase()}.svg?v=1`).then(r => r.ok ? r.text() : '').then(t => SPORT_ICONS[n] = t).catch(() => {})),
   fetch('data/team-logos.json').then(r => r.ok ? r.json() : {}).then(j => TEAMLOGOS = j).catch(() => {}),
   fetch('data/team-codes.json').then(r => r.ok ? r.json() : {}).then(j => TEAMCODES = j).catch(() => {}),
   fetch('data/franchises.json').then(r => r.ok ? r.json() : {}).then(j => FRANCHISES = j).catch(() => {})
@@ -129,18 +132,9 @@ function iconHTML(k, c, size) {
 }
 
 /* ---------- info frame ---------- */
-const SPORT_ICONS = {
-  Baseball: '<circle cx="12" cy="12" r="9"/><path d="M7.2 4.6c1.6 2 2.4 4.5 2.4 7.4s-.8 5.4-2.4 7.4M16.8 4.6c-1.6 2-2.4 4.5-2.4 7.4s.8 5.4 2.4 7.4"/>',
-  Football: '<ellipse cx="12" cy="12" rx="10" ry="6" transform="rotate(-35 12 12)"/><path d="M9.5 14.5l5-5M10.6 11.4l2 2M12.4 9.6l2 2M8.8 13.2l2 2"/>',
-  Basketball: '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3v18M5.6 5.6c2.4 2.2 3.4 4.3 3.4 6.4s-1 4.2-3.4 6.4M18.4 5.6c-2.4 2.2-3.4 4.3-3.4 6.4s1 4.2 3.4 6.4"/>',
-  Hockey: '<ellipse cx="12" cy="9" rx="9" ry="3.5"/><path d="M3 9v5c0 1.9 4 3.5 9 3.5s9-1.6 9-3.5V9"/>',
-  Tennis: '<circle cx="12" cy="12" r="9"/><path d="M5.2 6.1c2.6 1.6 4 3.6 4 5.9s-1.4 4.3-4 5.9M18.8 6.1c-2.6 1.6-4 3.6-4 5.9s1.4 4.3 4 5.9"/>',
-  Pokemon: '<rect x="5" y="3" width="14" height="18" rx="2"/><path d="M12.8 7l-3 5.2h3.4l-2 4.8"/>',
-  Other: '<rect x="5" y="3" width="14" height="18" rx="2"/><path d="M12 7.5l1.3 2.7 3 .4-2.2 2.1.5 3-2.6-1.4-2.6 1.4.5-3-2.2-2.1 3-.4z"/>'
-};
 function sportPill(c) {
   const ic = SPORT_ICONS[c.sport]; if (!ic) return '';
-  return `<button class="tag sp" data-sport="${esc(c.sport)}" title="All ${esc(c.sport)} cards" aria-label="All ${esc(c.sport)} cards"><svg viewBox="0 0 24 24" aria-hidden="true">${ic}</svg></button>`;
+  return `<button class="tag sp" data-sport="${esc(c.sport)}" title="All ${esc(c.sport)} cards" aria-label="All ${esc(c.sport)} cards">${ic}</button>`;
 }
 function teamPill(c, t) {
   const code = (TEAMCODES[c.sport] || {})[t]; if (!code) return '';
