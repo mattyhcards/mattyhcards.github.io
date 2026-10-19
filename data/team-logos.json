@@ -1,7 +1,10 @@
 {
  "Anaheim Angels": "assets/teams/anaheim-angels.png",
  "Anaheim Ducks": "assets/teams/anaheim-ducks.svg",
- "Anaheim Mighty Ducks": "assets/teams/anaheim-mighty-ducks.svg",
+ "Anaheim Mighty Ducks": {
+  "src": "assets/teams/anaheim-mighty-ducks.svg",
+  "scale": 1.25
+ },
  "Arizona Cardinals": "assets/teams/arizona-cardinals.svg",
  "Arizona Coyotes": "assets/teams/arizona-coyotes.svg",
  "Arizona Diamondbacks": "assets/teams/arizona-diamondbacks.svg",
@@ -161,7 +164,10 @@
  "Vancouver Canucks": "assets/teams/vancouver-canucks.svg",
  "Vancouver Whitecaps FC": "assets/teams/vancouver-whitecaps-fc.svg",
  "Vegas Golden Knights": "assets/teams/vegas-golden-knights.svg",
- "Venezuela": "assets/teams/venezuela.png",
+ "Venezuela": {
+  "src": "assets/teams/venezuela.png",
+  "scale": 0.8
+ },
  "Washington Capitals": "assets/teams/washington-capitals.svg",
  "Washington Commanders": "assets/teams/washington-commanders.svg",
  "Washington Nationals": "assets/teams/washington-nationals.svg",

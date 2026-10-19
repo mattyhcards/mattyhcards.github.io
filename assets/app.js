@@ -144,7 +144,9 @@ function frameColor(c) { return COLORS[(parseInt(c.id.replace(/\D/g, ''), 10) ||
 function infoFrame(c) {
   const name = c.player.length > 22 ? 'xlong' : c.player.length > 16 ? 'long' : '';
   const icons = iconList(c);
-  const logo = c.team && TEAMLOGOS[c.team] ? `<span class="tlogo"><img src="${esc(TEAMLOGOS[c.team])}" alt="${esc(c.team)} logo"></span>` : '';
+  const L = c.team && TEAMLOGOS[c.team];
+  const lsrc = L && (typeof L === 'string' ? L : L.src), lscale = L && L.scale;
+  const logo = lsrc ? `<span class="tlogo"><img src="${esc(lsrc)}" alt="${esc(c.team)} logo"${lscale ? ` style="transform:scale(${+lscale})"` : ''}></span>` : '';
   let hero = '';
   const numbered = c.printRun && c.printRun <= 150;
   if (!c.grade && !c.printRun && icons.length) {
