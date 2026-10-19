@@ -156,7 +156,7 @@ function infoFrame(c) {
       ${c.cardNo ? `<div class="num">#${esc(c.cardNo)}</div>` : '<div class="num"></div>'}
       ${c.acquired ? `<div class="acq"><span>Acquired ${fmtDate(c.acquired)}</span><b>${held(c.acquired)}</b></div>` : ''}
       <div class="hero">${hero}</div></div>
-    <div class="ffoot"><img src="assets/brand/mhc-logo.svg" alt=""><span>MATTY H CARDS</span></div>
+    <div class="ffoot"><img src="assets/brand/mhc-logo.svg" alt="Matty H Cards"></div>
   </div></div>`;
 }
 function fmtDate(iso) { const [y, m, d] = iso.split('-'); return `${m}-${d}-${y}`; }

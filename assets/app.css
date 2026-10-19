@@ -146,6 +146,5 @@ main{flex:1;padding-block:22px 40px}
 .frame .grade .t span{font:500 10px var(--mono);opacity:.7;margin-top:2px}
 .frame .ffoot{height:44px;background:var(--ivory);position:relative;display:flex;align-items:flex-end;justify-content:center;padding-bottom:9px;flex:none}
 .frame .ffoot img{position:absolute;top:-22px;left:50%;transform:translateX(-50%);width:46px}
-.frame .ffoot span{font:600 8.5px var(--sans);letter-spacing:.62em;color:var(--black);padding-left:.62em}
 
 .frame.dense .serial b{font-size:44px}.frame.dense .serial i{font-size:24px}.frame.dense .icons .ic{width:50px!important;height:50px!important;--s:50px!important}
