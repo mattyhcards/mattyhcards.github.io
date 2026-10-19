@@ -129,8 +129,8 @@ main{flex:1;padding-block:22px 40px}
 .frame .tag.tm{letter-spacing:.12em}
 .frame .no{font:500 10.5px var(--mono);letter-spacing:.06em;opacity:.8}
 .frame .fbody{flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;text-align:center;padding:18px 36px 0}
-.frame .tlogo{width:56px;height:56px;flex:none;border-radius:50%;background:var(--ivory);display:grid;place-items:center;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
-.frame .tlogo img{width:36px;height:36px;object-fit:contain;display:block}
+.frame .tlogo{width:45px;height:45px;flex:none;border-radius:50%;background:var(--ivory);display:grid;place-items:center;margin-bottom:10px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.frame .tlogo img{width:29px;height:29px;object-fit:contain;display:block}
 .frame .name{font:900 40px/1 var(--sans);text-transform:uppercase;letter-spacing:-.005em}
 .frame .name.long{font-size:33px}.frame .name.xlong{font-size:27px}
 .frame .team{font:600 11.5px var(--sans);letter-spacing:.14em;text-transform:uppercase;margin-top:8px;opacity:.92}
