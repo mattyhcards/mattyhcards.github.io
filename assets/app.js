@@ -6,14 +6,18 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const slug = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const COLORS = ['o', 'g', 'r', 'k'];
 
-let CARDS = [], VIEW = [], ICONS = {}, TEAMLOGOS = {};
+let CARDS = [], VIEW = [], ICONS = {}, TEAMLOGOS = {}, TEAMCODES = {}, FRANCHISES = {};
+const franchise = t => FRANCHISES[t] || t;
+const teamsOf = c => String(c.team || '').split(' / ').map(t => t.trim()).filter(Boolean);
 const state = { q: '', tag: '', sport: '', team: '', year: '', set: '', graded: '', sort: 'year-desc' };
 
 /* ---------- boot ---------- */
 Promise.all([
   fetch('data/cards.json', { cache: 'no-cache' }).then(r => r.json()),
   ...['ssp', 'rc', 'top100'].map(n => fetch(`assets/icons/${n}.svg`).then(r => r.text()).then(t => ICONS[n] = t)),
-  fetch('data/team-logos.json').then(r => r.ok ? r.json() : {}).then(j => TEAMLOGOS = j).catch(() => {})
+  fetch('data/team-logos.json').then(r => r.ok ? r.json() : {}).then(j => TEAMLOGOS = j).catch(() => {}),
+  fetch('data/team-codes.json').then(r => r.ok ? r.json() : {}).then(j => TEAMCODES = j).catch(() => {}),
+  fetch('data/franchises.json').then(r => r.ok ? r.json() : {}).then(j => FRANCHISES = j).catch(() => {})
 ]).then(([data]) => {
   CARDS = data.cards.map((c, i) => ({ ...c, _i: i, _search: [c.player, c.team, c.year, c.set, c.variation, c.cardNo, c.id, ...(c.tags || [])].join(' ').toLowerCase() }));
   const deep = new URLSearchParams(location.hash.slice(1)).get('card');
@@ -64,7 +68,7 @@ function buildControls() {
   };
   const uniq = k => [...new Set(CARDS.map(c => c[k]).filter(Boolean))];
   fill('#f-sport', 'All sports', uniq('sport').sort());
-  fill('#f-team', 'All teams', uniq('team').sort());
+  fill('#f-team', 'All teams', [...new Set(CARDS.flatMap(teamsOf).map(franchise))].sort());
   fill('#f-year', 'All years', uniq('year').sort((a, b) => b - a));
   fill('#f-set', 'All sets', uniq('set').sort());
   $('#f-graded').value = state.graded; $('#f-graded').onchange = e => { state.graded = e.target.value; render(); };
@@ -82,7 +86,7 @@ function apply() {
   let v = CARDS.filter(c =>
     words.every(w => c._search.includes(w)) &&
     (!state.tag || (state.tag === '__top100' ? c.top100 : (c.tags || []).some(t => slug(t) === state.tag))) &&
-    (!state.sport || c.sport === state.sport) && (!state.team || c.team === state.team) &&
+    (!state.sport || c.sport === state.sport) && (!state.team || teamsOf(c).some(t => franchise(t) === franchise(state.team))) &&
     (!state.year || c.year === state.year) && (!state.set || c.set === state.set) &&
     (!state.graded || (state.graded === 'graded') === !!c.grade));
   const by = {
@@ -125,6 +129,23 @@ function iconHTML(k, c, size) {
 }
 
 /* ---------- info frame ---------- */
+const SPORT_ICONS = {
+  Baseball: '<circle cx="12" cy="12" r="9"/><path d="M7.2 4.6c1.6 2 2.4 4.5 2.4 7.4s-.8 5.4-2.4 7.4M16.8 4.6c-1.6 2-2.4 4.5-2.4 7.4s.8 5.4 2.4 7.4"/>',
+  Football: '<ellipse cx="12" cy="12" rx="10" ry="6" transform="rotate(-35 12 12)"/><path d="M9.5 14.5l5-5M10.6 11.4l2 2M12.4 9.6l2 2M8.8 13.2l2 2"/>',
+  Basketball: '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3v18M5.6 5.6c2.4 2.2 3.4 4.3 3.4 6.4s-1 4.2-3.4 6.4M18.4 5.6c-2.4 2.2-3.4 4.3-3.4 6.4s1 4.2 3.4 6.4"/>',
+  Hockey: '<ellipse cx="12" cy="9" rx="9" ry="3.5"/><path d="M3 9v5c0 1.9 4 3.5 9 3.5s9-1.6 9-3.5V9"/>',
+  Tennis: '<circle cx="12" cy="12" r="9"/><path d="M5.2 6.1c2.6 1.6 4 3.6 4 5.9s-1.4 4.3-4 5.9M18.8 6.1c-2.6 1.6-4 3.6-4 5.9s1.4 4.3 4 5.9"/>',
+  Pokemon: '<rect x="5" y="3" width="14" height="18" rx="2"/><path d="M12.8 7l-3 5.2h3.4l-2 4.8"/>',
+  Other: '<rect x="5" y="3" width="14" height="18" rx="2"/><path d="M12 7.5l1.3 2.7 3 .4-2.2 2.1.5 3-2.6-1.4-2.6 1.4.5-3-2.2-2.1 3-.4z"/>'
+};
+function sportPill(c) {
+  const ic = SPORT_ICONS[c.sport]; if (!ic) return '';
+  return `<button class="tag sp" data-sport="${esc(c.sport)}" title="All ${esc(c.sport)} cards" aria-label="All ${esc(c.sport)} cards"><svg viewBox="0 0 24 24" aria-hidden="true">${ic}</svg></button>`;
+}
+function teamPill(c, t) {
+  const code = (TEAMCODES[c.sport] || {})[t]; if (!code) return '';
+  return `<button class="tag tm" data-team="${esc(franchise(t))}" title="All ${esc(franchise(t))} cards" aria-label="All ${esc(franchise(t))} cards">${esc(code)}</button>`;
+}
 function frameColor(c) { return COLORS[(parseInt(c.id.replace(/\D/g, ''), 10) || c._i) % COLORS.length]; }
 function infoFrame(c) {
   const name = c.player.length > 22 ? 'xlong' : c.player.length > 16 ? 'long' : '';
@@ -140,7 +161,7 @@ function infoFrame(c) {
       hero += c.serial ? `<div class="serial"><b>${c.serial}</b><i>/${c.printRun}</i></div>` : `<div class="serial"><i>/</i><b>${c.printRun}</b></div>`;
       if (numbered) {
         const cols = c.printRun <= 50 ? 10 : 15;
-        hero += `<div class="dots" style="grid-template-columns:repeat(${cols},7px)">${Array.from({ length: c.printRun }, (_, i) => `<i${i + 1 === c.serial ? ' class="me"' : ''}></i>`).join('')}</div>`;
+        hero += `<div class="dots" style="width:${cols * 7 + (cols - 1) * 6}px">${Array.from({ length: c.printRun }, (_, i) => `<i${i + 1 === c.serial ? ' class="me"' : ''}></i>`).join('')}</div>`;
       }
     }
     if (c.grade) {
@@ -150,7 +171,7 @@ function infoFrame(c) {
   }
   const dense = icons.length && numbered && c.grade;
   return `<div class="frame-fit"><div class="frame ${frameColor(c)}${dense ? ' dense' : ''}">
-    <div class="ftop"><div class="tags">${(c.tags || []).map(t => `<button class="tag" data-tag="${esc(slug(t))}">${esc(t)}</button>`).join('')}</div><div class="no">NO. ${esc(c.id)}</div></div>
+    <div class="ftop"><div class="tags">${sportPill(c)}${teamsOf(c).map(t => teamPill(c, t)).join('')}${(c.tags || []).map(t => `<button class="tag" data-tag="${esc(slug(t))}">${esc(t)}</button>`).join('')}</div><div class="no">NO. ${esc(c.id)}</div></div>
     <div class="fbody">${logo}<div class="name ${name}">${esc(c.player)}</div>${c.team ? `<div class="team">${esc(c.team)}</div>` : ''}<div class="rule"></div>
       <div class="yr">${esc(c.year)}</div><div class="set">${esc(c.set)}</div>${c.variation ? `<div class="var">${esc(c.variation)}</div>` : ''}
       ${c.cardNo ? `<div class="num">#${esc(c.cardNo)}</div>` : '<div class="num"></div>'}
@@ -213,7 +234,14 @@ $('#lb-ncard').onclick = () => openLB(lb.i + 1, 0, 1); $('#lb-pcard').onclick = 
 $('#lb').addEventListener('click', e => {
   if (e.target.closest('[data-close]')) return closeLB();
   const d = e.target.closest('.lb-dots button'); if (d) return openLB(lb.i, +d.dataset.s, +d.dataset.s > lb.s ? 1 : -1);
-  const t = e.target.closest('.frame .tag'); if (t) { state.tag = t.dataset.tag; closeLB(); render(); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+  const t = e.target.closest('.frame .tag');
+  if (t) {
+    Object.assign(state, { q: '', tag: '', sport: '', team: '', year: '', set: '', graded: '' });
+    if (t.dataset.sport) state.sport = t.dataset.sport;
+    else if (t.dataset.team) state.team = t.dataset.team;
+    else state.tag = t.dataset.tag;
+    closeLB(); buildControls(); render(); window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
 });
 document.addEventListener('keydown', e => {
   if ($('#lb').hidden) return;
