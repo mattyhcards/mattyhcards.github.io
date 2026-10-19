@@ -4,7 +4,8 @@ Reads a Collection export (JSON from the Google Sheets API: {"values": [[header.
 plus the Top 100 ranking, keeps PUBLIC fields only (no cost, dates, platform or notes),
 and lists which photos exist under img/cards/<Card ID>/.
 
-Usage: python3 tools/build_data.py collection.json top100.json [--tags "Lindor SSP Run"] [--only-with-photos]
+Usage: python3 tools/build_data.py collection.json top100.json [--tags "Lindor SSP Run"] [--sports "Football,Hockey"] [--ids MHC-0001,...] [--only-with-photos]
+Filters are a union (any match keeps the card).
 """
 import json, os, re, sys, argparse
 
@@ -61,6 +62,7 @@ def main():
     ap.add_argument("collection"); ap.add_argument("top100")
     ap.add_argument("--tags", default="")
     ap.add_argument("--ids", default="")
+    ap.add_argument("--sports", default="")
     ap.add_argument("--only-with-photos", action="store_true")
     a = ap.parse_args()
 
@@ -74,6 +76,7 @@ def main():
 
     want_tags = {t.strip() for t in a.tags.split(",") if t.strip()}
     want_ids = {t.strip() for t in a.ids.split(",") if t.strip()}
+    want_sports = {t.strip().lower() for t in a.sports.split(",") if t.strip()}
     cards = []
     for r in v[1:]:
         if not r or not r[0].startswith("MHC"):
@@ -81,11 +84,11 @@ def main():
         r = r + [""] * (len(head) - len(r))
         f = lambda k: r[idx[k]].strip() if k in idx else ""
         tags = [t.strip() for t in f("Category").split(",") if t.strip()]
-        if want_tags and not (want_tags & set(tags)):
-            continue
         cid = f("Card ID")
-        if want_ids and cid not in want_ids:
-            continue
+        # filters are a union: a card is kept if it matches any tag, id or sport given
+        if want_tags or want_ids or want_sports:
+            if not ((want_tags & set(tags)) or cid in want_ids or f("Sport").lower() in want_sports):
+                continue
         pr = f("Print Run")
         var = f("Variation")
         ssp = pr.upper() == "SSP" or bool(re.search(r"\bSSP\b", var))
