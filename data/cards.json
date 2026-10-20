@@ -180,6 +180,37 @@
    }
   },
   {
+   "id": "MHC-0077",
+   "sport": "Baseball",
+   "player": "Felix Bautista",
+   "team": "Baltimore Orioles",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "45",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "101686970",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-04-14",
+   "photos": {
+    "front": "img/cards/MHC-0077/front.jpg",
+    "frontThumb": "img/cards/MHC-0077/front-thumb.jpg",
+    "back": "img/cards/MHC-0077/back.jpg",
+    "backThumb": "img/cards/MHC-0077/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0108",
    "sport": "Baseball",
    "player": "Gunnar Henderson",
@@ -349,6 +380,37 @@
     "frontThumb": "img/cards/MHC-0185/front-thumb.jpg",
     "back": "img/cards/MHC-0185/back.jpg",
     "backThumb": "img/cards/MHC-0185/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0194",
+   "sport": "Baseball",
+   "player": "Felix Bautista",
+   "team": "Baltimore Orioles",
+   "year": "2022",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US225",
+   "printRun": 71,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "99252642",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-07-09",
+   "photos": {
+    "front": "img/cards/MHC-0194/front.jpg",
+    "frontThumb": "img/cards/MHC-0194/front-thumb.jpg",
+    "back": "img/cards/MHC-0194/back.jpg",
+    "backThumb": "img/cards/MHC-0194/back-thumb.jpg"
    }
   },
   {
@@ -668,6 +730,37 @@
     "frontThumb": "img/cards/MHC-0275/front-thumb.jpg",
     "back": "img/cards/MHC-0275/back.jpg",
     "backThumb": "img/cards/MHC-0275/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0278",
+   "sport": "Baseball",
+   "player": "Jackson Chourio",
+   "team": "Milwaukee Brewers",
+   "year": "2024",
+   "set": "Topps Update",
+   "variation": "Golden Mirror",
+   "cardNo": "US240",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "99879190",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-10-17",
+   "photos": {
+    "front": "img/cards/MHC-0278/front.jpg",
+    "frontThumb": "img/cards/MHC-0278/front-thumb.jpg",
+    "back": "img/cards/MHC-0278/back.jpg",
+    "backThumb": "img/cards/MHC-0278/back-thumb.jpg"
    }
   },
   {
@@ -1067,6 +1160,37 @@
    }
   },
   {
+   "id": "MHC-0398",
+   "sport": "Baseball",
+   "player": "Mason Miller",
+   "team": "Oakland Athletics",
+   "year": "2023",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US15",
+   "printRun": 72,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "105417793",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-01-07",
+   "photos": {
+    "front": "img/cards/MHC-0398/front.jpg",
+    "frontThumb": "img/cards/MHC-0398/front-thumb.jpg",
+    "back": "img/cards/MHC-0398/back.jpg",
+    "backThumb": "img/cards/MHC-0398/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0406",
    "sport": "Baseball",
    "player": "Miguel Tejada",
@@ -1147,6 +1271,37 @@
     "frontThumb": "img/cards/MHC-0410/front-thumb.jpg",
     "back": "img/cards/MHC-0410/back.jpg",
     "backThumb": "img/cards/MHC-0410/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0413",
+   "sport": "Baseball",
+   "player": "Corbin Carroll",
+   "team": "Arizona Diamondbacks",
+   "year": "2023",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "401",
+   "printRun": 72,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "93797186",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-01-20",
+   "photos": {
+    "front": "img/cards/MHC-0413/front.jpg",
+    "frontThumb": "img/cards/MHC-0413/front-thumb.jpg",
+    "back": "img/cards/MHC-0413/back.jpg",
+    "backThumb": "img/cards/MHC-0413/back-thumb.jpg"
    }
   },
   {
@@ -1521,6 +1676,37 @@
    }
   },
   {
+   "id": "MHC-0491",
+   "sport": "Baseball",
+   "player": "Seiya Suzuki",
+   "team": "Chicago Cubs",
+   "year": "2022",
+   "set": "Topps Update",
+   "variation": "SSP Variation",
+   "cardNo": "US250",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "73538894",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-03-13",
+   "photos": {
+    "front": "img/cards/MHC-0491/front.jpg",
+    "frontThumb": "img/cards/MHC-0491/front-thumb.jpg",
+    "back": "img/cards/MHC-0491/back.jpg",
+    "backThumb": "img/cards/MHC-0491/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0494",
    "sport": "Football",
    "player": "Shaun Alexander",
@@ -1604,6 +1790,68 @@
    }
   },
   {
+   "id": "MHC-0520",
+   "sport": "Baseball",
+   "player": "Elly De La Cruz",
+   "team": "Cincinnati Reds",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "141",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "88774321",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-04-15",
+   "photos": {
+    "front": "img/cards/MHC-0520/front.jpg",
+    "frontThumb": "img/cards/MHC-0520/front-thumb.jpg",
+    "back": "img/cards/MHC-0520/back.jpg",
+    "backThumb": "img/cards/MHC-0520/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0537",
+   "sport": "Baseball",
+   "player": "Jackson Chourio",
+   "team": "Milwaukee Brewers",
+   "year": "2024",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US240",
+   "printRun": 74,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "105417692",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-05-03",
+   "photos": {
+    "front": "img/cards/MHC-0537/front.jpg",
+    "frontThumb": "img/cards/MHC-0537/front-thumb.jpg",
+    "back": "img/cards/MHC-0537/back.jpg",
+    "backThumb": "img/cards/MHC-0537/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0546",
    "sport": "Baseball",
    "player": "Ketel Marte",
@@ -1635,6 +1883,37 @@
    }
   },
   {
+   "id": "MHC-0550",
+   "sport": "Baseball",
+   "player": "Jackson Holliday",
+   "team": "Baltimore Orioles",
+   "year": "2024",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US50",
+   "printRun": 74,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "105340883",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-05-12",
+   "photos": {
+    "front": "img/cards/MHC-0550/front.jpg",
+    "frontThumb": "img/cards/MHC-0550/front-thumb.jpg",
+    "back": "img/cards/MHC-0550/back.jpg",
+    "backThumb": "img/cards/MHC-0550/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0551",
    "sport": "Football",
    "player": "Warrick Dunn",
@@ -1657,6 +1936,37 @@
     "frontThumb": "img/cards/MHC-0551/front-thumb.jpg",
     "back": "img/cards/MHC-0551/back.jpg",
     "backThumb": "img/cards/MHC-0551/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0554",
+   "sport": "Baseball",
+   "player": "Jung Hoo Lee",
+   "team": "San Francisco Giants",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "691",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "134844179",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-05-14",
+   "photos": {
+    "front": "img/cards/MHC-0554/front.jpg",
+    "frontThumb": "img/cards/MHC-0554/front-thumb.jpg",
+    "back": "img/cards/MHC-0554/back.jpg",
+    "backThumb": "img/cards/MHC-0554/back-thumb.jpg"
    }
   },
   {
@@ -1828,6 +2138,37 @@
    }
   },
   {
+   "id": "MHC-0584",
+   "sport": "Baseball",
+   "player": "Gunnar Henderson",
+   "team": "Baltimore Orioles",
+   "year": "2023",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "206",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "134196713",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-06-10",
+   "photos": {
+    "front": "img/cards/MHC-0584/front.jpg",
+    "frontThumb": "img/cards/MHC-0584/front-thumb.jpg",
+    "back": "img/cards/MHC-0584/back.jpg",
+    "backThumb": "img/cards/MHC-0584/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0589",
    "sport": "Baseball",
    "player": "Mason Miller",
@@ -1888,6 +2229,37 @@
    }
   },
   {
+   "id": "MHC-0597",
+   "sport": "Baseball",
+   "player": "Freddy Peralta",
+   "team": "Milwaukee Brewers",
+   "year": "2018",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US39",
+   "printRun": 67,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "134844173",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-07-15",
+   "photos": {
+    "front": "img/cards/MHC-0597/front.jpg",
+    "frontThumb": "img/cards/MHC-0597/front-thumb.jpg",
+    "back": "img/cards/MHC-0597/back.jpg",
+    "backThumb": "img/cards/MHC-0597/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0608",
    "sport": "Football",
    "player": "Jamal Lewis",
@@ -1914,6 +2286,37 @@
     "frontThumb": "img/cards/MHC-0608/front-thumb.jpg",
     "back": "img/cards/MHC-0608/back.jpg",
     "backThumb": "img/cards/MHC-0608/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0610",
+   "sport": "Baseball",
+   "player": "Juan Soto",
+   "team": "Washington Nationals",
+   "year": "2018",
+   "set": "Topps Update",
+   "variation": "SSP Variation",
+   "cardNo": "US300",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "108542369",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-08-02",
+   "photos": {
+    "front": "img/cards/MHC-0610/front.jpg",
+    "frontThumb": "img/cards/MHC-0610/front-thumb.jpg",
+    "back": "img/cards/MHC-0610/back.jpg",
+    "backThumb": "img/cards/MHC-0610/back-thumb.jpg"
    }
   },
   {
@@ -1998,6 +2401,66 @@
    }
   },
   {
+   "id": "MHC-0628",
+   "sport": "Baseball",
+   "player": "Paul Skenes",
+   "team": "Pittsburgh Pirates",
+   "year": "2024",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US100",
+   "printRun": 74,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "7",
+    "label": "NM"
+   },
+   "cert": "134196712",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-08-24",
+   "photos": {
+    "front": "img/cards/MHC-0628/front.jpg",
+    "frontThumb": "img/cards/MHC-0628/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0633",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2018",
+   "set": "Topps Opening Day",
+   "variation": "National Anthem",
+   "cardNo": "NA-FL",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "134844169",
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2025-08-29",
+   "photos": {
+    "front": "img/cards/MHC-0633/front.jpg",
+    "frontThumb": "img/cards/MHC-0633/front-thumb.jpg",
+    "back": "img/cards/MHC-0633/back.jpg",
+    "backThumb": "img/cards/MHC-0633/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0635",
    "sport": "Baseball",
    "player": "Tim Hudson",
@@ -2022,6 +2485,37 @@
    "photos": {
     "front": "img/cards/MHC-0635/front.jpg",
     "frontThumb": "img/cards/MHC-0635/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0638",
+   "sport": "Baseball",
+   "player": "Yoshinobu Yamamoto",
+   "team": "Los Angeles Dodgers",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "553",
+   "printRun": 73,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "134844162",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-09-07",
+   "photos": {
+    "front": "img/cards/MHC-0638/front.jpg",
+    "frontThumb": "img/cards/MHC-0638/front-thumb.jpg",
+    "back": "img/cards/MHC-0638/back.jpg",
+    "backThumb": "img/cards/MHC-0638/back-thumb.jpg"
    }
   },
   {
@@ -2432,6 +2926,37 @@
    }
   },
   {
+   "id": "MHC-0687",
+   "sport": "Baseball",
+   "player": "Charlie Blackmon",
+   "team": "Colorado Rockies",
+   "year": "2025",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "311",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "150116051",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-11-08",
+   "photos": {
+    "front": "img/cards/MHC-0687/front.jpg",
+    "frontThumb": "img/cards/MHC-0687/front-thumb.jpg",
+    "back": "img/cards/MHC-0687/back.jpg",
+    "backThumb": "img/cards/MHC-0687/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0690",
    "sport": "Other",
    "player": "Kirk Herbstreit",
@@ -2571,6 +3096,37 @@
    }
   },
   {
+   "id": "MHC-0704",
+   "sport": "Baseball",
+   "player": "Julio Rodriguez",
+   "team": "Seattle Mariners",
+   "year": "2022",
+   "set": "Topps Update",
+   "variation": "SSP Variation",
+   "cardNo": "US44",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "69758022",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-11-27",
+   "photos": {
+    "front": "img/cards/MHC-0704/front.jpg",
+    "frontThumb": "img/cards/MHC-0704/front-thumb.jpg",
+    "back": "img/cards/MHC-0704/back.jpg",
+    "backThumb": "img/cards/MHC-0704/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0706",
    "sport": "Baseball",
    "player": "Joe Ryan",
@@ -2622,6 +3178,37 @@
     "frontThumb": "img/cards/MHC-0711/front-thumb.jpg",
     "back": "img/cards/MHC-0711/back.jpg",
     "backThumb": "img/cards/MHC-0711/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0712",
+   "sport": "Baseball",
+   "player": "Pete Alonso",
+   "team": "New York Mets",
+   "year": "2019",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "475",
+   "printRun": 67,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "88840718",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-12-10",
+   "photos": {
+    "front": "img/cards/MHC-0712/front.jpg",
+    "frontThumb": "img/cards/MHC-0712/front-thumb.jpg",
+    "back": "img/cards/MHC-0712/back.jpg",
+    "backThumb": "img/cards/MHC-0712/back-thumb.jpg"
    }
   },
   {
@@ -3067,6 +3654,37 @@
    }
   },
   {
+   "id": "MHC-0760",
+   "sport": "Baseball",
+   "player": "Jackson Merrill",
+   "team": "San Diego Padres",
+   "year": "2024",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US210",
+   "printRun": 74,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "7",
+    "label": "NM"
+   },
+   "cert": "101187011",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-02-12",
+   "photos": {
+    "front": "img/cards/MHC-0760/front.jpg",
+    "frontThumb": "img/cards/MHC-0760/front-thumb.jpg",
+    "back": "img/cards/MHC-0760/back.jpg",
+    "backThumb": "img/cards/MHC-0760/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0761",
    "sport": "Baseball",
    "player": "Victor Robles",
@@ -3364,6 +3982,37 @@
    "photos": {
     "front": "img/cards/MHC-0777/front.jpg",
     "frontThumb": "img/cards/MHC-0777/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0780",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2018",
+   "set": "Topps",
+   "variation": "Fist SSP",
+   "cardNo": "10",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "104403846",
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2026-03-08",
+   "photos": {
+    "front": "img/cards/MHC-0780/front.jpg",
+    "frontThumb": "img/cards/MHC-0780/front-thumb.jpg",
+    "back": "img/cards/MHC-0780/back.jpg",
+    "backThumb": "img/cards/MHC-0780/back-thumb.jpg"
    }
   },
   {
@@ -4623,6 +5272,37 @@
    "photos": {
     "front": "img/cards/MHC-0859/front.jpg",
     "frontThumb": "img/cards/MHC-0859/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0861",
+   "sport": "Baseball",
+   "player": "Hunter Greene",
+   "team": "Cincinnati Reds",
+   "year": "2022",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US160",
+   "printRun": 71,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "112632177",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-05-15",
+   "photos": {
+    "front": "img/cards/MHC-0861/front.jpg",
+    "frontThumb": "img/cards/MHC-0861/front-thumb.jpg",
+    "back": "img/cards/MHC-0861/back.jpg",
+    "backThumb": "img/cards/MHC-0861/back-thumb.jpg"
    }
   },
   {
@@ -9775,6 +10455,37 @@
     "frontThumb": "img/cards/MHC-1187/front-thumb.jpg",
     "back": "img/cards/MHC-1187/back.jpg",
     "backThumb": "img/cards/MHC-1187/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1190",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "New York Mets",
+   "year": "2021",
+   "set": "Topps",
+   "variation": "SSP",
+   "cardNo": "489",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "134844165",
+   "tags": [
+    "Lindor SSP Run"
+   ],
+   "top100": null,
+   "acquired": "2025-10-02",
+   "photos": {
+    "front": "img/cards/MHC-1190/front.jpg",
+    "frontThumb": "img/cards/MHC-1190/front-thumb.jpg",
+    "back": "img/cards/MHC-1190/back.jpg",
+    "backThumb": "img/cards/MHC-1190/back-thumb.jpg"
    }
   },
   {
