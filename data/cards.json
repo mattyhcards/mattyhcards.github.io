@@ -2,6 +2,93 @@
  "generated": "2026-10-19",
  "cards": [
   {
+   "id": "MHC-0002",
+   "sport": "Basketball",
+   "player": "LeBron James",
+   "team": "Cleveland Cavaliers",
+   "year": "2003",
+   "set": "Topps",
+   "variation": "Base",
+   "cardNo": "221",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "96793684",
+   "tags": [],
+   "top100": null,
+   "acquired": "2004-02-12",
+   "photos": {
+    "front": "img/cards/MHC-0002/front.jpg",
+    "frontThumb": "img/cards/MHC-0002/front-thumb.jpg",
+    "back": "img/cards/MHC-0002/back.jpg",
+    "backThumb": "img/cards/MHC-0002/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0016",
+   "sport": "Football",
+   "player": "Lamar Jackson",
+   "team": "Baltimore Ravens",
+   "year": "2018",
+   "set": "Panini Donruss Optic",
+   "variation": "Downtown",
+   "cardNo": "DT-16",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "66643791",
+   "tags": [],
+   "top100": null,
+   "acquired": "2023-09-08",
+   "photos": {
+    "front": "img/cards/MHC-0016/front.jpg",
+    "frontThumb": "img/cards/MHC-0016/front-thumb.jpg",
+    "back": "img/cards/MHC-0016/back.jpg",
+    "backThumb": "img/cards/MHC-0016/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0046",
+   "sport": "Football",
+   "player": "Champ Bailey",
+   "team": "Washington Redskins",
+   "year": "1999",
+   "set": "Topps Chrome",
+   "variation": "Refractor",
+   "cardNo": "160",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "85734599",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-03-10",
+   "photos": {
+    "front": "img/cards/MHC-0046/front.jpg",
+    "frontThumb": "img/cards/MHC-0046/front-thumb.jpg",
+    "back": "img/cards/MHC-0046/back.jpg",
+    "backThumb": "img/cards/MHC-0046/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0047",
    "sport": "Baseball",
    "player": "Corbin Carroll",
@@ -54,6 +141,35 @@
    }
   },
   {
+   "id": "MHC-0164",
+   "sport": "Basketball",
+   "player": "Bilal Coulibaly",
+   "team": "Washington Wizards",
+   "year": "2023",
+   "set": "Panini Select",
+   "variation": "Mezzanine Zebra",
+   "cardNo": "304",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "96793687",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-06-13",
+   "photos": {
+    "front": "img/cards/MHC-0164/front.jpg",
+    "frontThumb": "img/cards/MHC-0164/front-thumb.jpg",
+    "back": "img/cards/MHC-0164/back.jpg",
+    "backThumb": "img/cards/MHC-0164/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0168",
    "sport": "Baseball",
    "player": "Ketel Marte",
@@ -80,6 +196,180 @@
    "photos": {
     "front": "img/cards/MHC-0168/front.jpg",
     "frontThumb": "img/cards/MHC-0168/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0185",
+   "sport": "Football",
+   "player": "Kyle Hamilton",
+   "team": "Baltimore Ravens",
+   "year": "2022",
+   "set": "Panini Select",
+   "variation": "Club Level Cosmic",
+   "cardNo": "294",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "96793681",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-07-02",
+   "photos": {
+    "front": "img/cards/MHC-0185/front.jpg",
+    "frontThumb": "img/cards/MHC-0185/front-thumb.jpg",
+    "back": "img/cards/MHC-0185/back.jpg",
+    "backThumb": "img/cards/MHC-0185/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0223",
+   "sport": "Football",
+   "player": "Ed Reed",
+   "team": "Baltimore Ravens",
+   "year": "2002",
+   "set": "Topps Chrome",
+   "variation": "Black Refractor (Rookie)",
+   "cardNo": "208",
+   "printRun": 100,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "96791081",
+   "tags": [],
+   "top100": 18,
+   "acquired": "2024-08-22",
+   "photos": {
+    "front": "img/cards/MHC-0223/front.jpg",
+    "frontThumb": "img/cards/MHC-0223/front-thumb.jpg",
+    "back": "img/cards/MHC-0223/back.jpg",
+    "backThumb": "img/cards/MHC-0223/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0225",
+   "sport": "Football",
+   "player": "Chris McAlister",
+   "team": "Baltimore Ravens",
+   "year": "1999",
+   "set": "Bowman's Best",
+   "variation": "Atomic Refractor",
+   "cardNo": "117",
+   "printRun": 100,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "89451464",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-08-28",
+   "photos": {
+    "front": "img/cards/MHC-0225/front.jpg",
+    "frontThumb": "img/cards/MHC-0225/front-thumb.jpg",
+    "back": "img/cards/MHC-0225/back.jpg",
+    "backThumb": "img/cards/MHC-0225/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0226",
+   "sport": "Football",
+   "player": "Kyle Hamilton",
+   "team": "Baltimore Ravens",
+   "year": "2022",
+   "set": "Panini Select",
+   "variation": "Club Level Tie-Dye",
+   "cardNo": "294",
+   "printRun": 25,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "96793683",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-08-27",
+   "photos": {
+    "front": "img/cards/MHC-0226/front.jpg",
+    "frontThumb": "img/cards/MHC-0226/front-thumb.jpg",
+    "back": "img/cards/MHC-0226/back.jpg",
+    "backThumb": "img/cards/MHC-0226/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0230",
+   "sport": "Football",
+   "player": "Dunta Robinson",
+   "team": "Houston Texans",
+   "year": "2005",
+   "set": "Topps Finest",
+   "variation": "Gold X-Fractor",
+   "cardNo": "64",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "117539481",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-09-02",
+   "photos": {
+    "front": "img/cards/MHC-0230/front.jpg",
+    "frontThumb": "img/cards/MHC-0230/front-thumb.jpg",
+    "back": "img/cards/MHC-0230/back.jpg",
+    "backThumb": "img/cards/MHC-0230/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0241",
+   "sport": "Football",
+   "player": "Andre Johnson",
+   "team": "Houston Texans",
+   "year": "2003",
+   "set": "Topps Chrome",
+   "variation": "Gold X-Fractor",
+   "cardNo": "235",
+   "printRun": 101,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "92024149",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-09-12",
+   "photos": {
+    "front": "img/cards/MHC-0241/front.jpg",
+    "frontThumb": "img/cards/MHC-0241/front-thumb.jpg",
+    "back": "img/cards/MHC-0241/back.jpg",
+    "backThumb": "img/cards/MHC-0241/back-thumb.jpg"
    }
   },
   {
@@ -166,6 +456,64 @@
    }
   },
   {
+   "id": "MHC-0295",
+   "sport": "Basketball",
+   "player": "Bilal Coulibaly",
+   "team": "Washington Wizards",
+   "year": "2023",
+   "set": "Panini Select",
+   "variation": "Courtside Gold Tectonic",
+   "cardNo": "268",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "95132280",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-10-28",
+   "photos": {
+    "front": "img/cards/MHC-0295/front.jpg",
+    "frontThumb": "img/cards/MHC-0295/front-thumb.jpg",
+    "back": "img/cards/MHC-0295/back.jpg",
+    "backThumb": "img/cards/MHC-0295/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0304",
+   "sport": "Football",
+   "player": "Kyle Hamilton",
+   "team": "Baltimore Ravens",
+   "year": "2022",
+   "set": "Panini Donruss Optic",
+   "variation": "Gold",
+   "cardNo": "238",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "97075218",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-11-02",
+   "photos": {
+    "front": "img/cards/MHC-0304/front.jpg",
+    "frontThumb": "img/cards/MHC-0304/front-thumb.jpg",
+    "back": "img/cards/MHC-0304/back.jpg",
+    "backThumb": "img/cards/MHC-0304/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0324",
    "sport": "Football",
    "player": "Eric Crouch",
@@ -188,6 +536,35 @@
     "frontThumb": "img/cards/MHC-0324/front-thumb.jpg",
     "back": "img/cards/MHC-0324/back.jpg",
     "backThumb": "img/cards/MHC-0324/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0326",
+   "sport": "Football",
+   "player": "Ray Lewis",
+   "team": "Baltimore Ravens",
+   "year": "1996",
+   "set": "Bowman's Best",
+   "variation": "Atomic Refractor",
+   "cardNo": "164",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "101687064",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-11-24",
+   "photos": {
+    "front": "img/cards/MHC-0326/front.jpg",
+    "frontThumb": "img/cards/MHC-0326/front-thumb.jpg",
+    "back": "img/cards/MHC-0326/back.jpg",
+    "backThumb": "img/cards/MHC-0326/back-thumb.jpg"
    }
   },
   {
@@ -247,6 +624,35 @@
    }
   },
   {
+   "id": "MHC-0332",
+   "sport": "Football",
+   "player": "Kyle Hamilton",
+   "team": "Baltimore Ravens",
+   "year": "2022",
+   "set": "Panini Donruss Optic",
+   "variation": "Purple Stars",
+   "cardNo": "238",
+   "printRun": 15,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101686975",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-12-02",
+   "photos": {
+    "front": "img/cards/MHC-0332/front.jpg",
+    "frontThumb": "img/cards/MHC-0332/front-thumb.jpg",
+    "back": "img/cards/MHC-0332/back.jpg",
+    "backThumb": "img/cards/MHC-0332/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0334",
    "sport": "Tennis",
    "player": "Rafael Nadal",
@@ -296,6 +702,64 @@
     "frontThumb": "img/cards/MHC-0363/front-thumb.jpg",
     "back": "img/cards/MHC-0363/back.jpg",
     "backThumb": "img/cards/MHC-0363/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0379",
+   "sport": "Football",
+   "player": "David Carr",
+   "team": "Houston Texans",
+   "year": "2005",
+   "set": "Topps Finest",
+   "variation": "Gold X-fractor",
+   "cardNo": "115",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "98421886",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-12-26",
+   "photos": {
+    "front": "img/cards/MHC-0379/front.jpg",
+    "frontThumb": "img/cards/MHC-0379/front-thumb.jpg",
+    "back": "img/cards/MHC-0379/back.jpg",
+    "backThumb": "img/cards/MHC-0379/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0388",
+   "sport": "Football",
+   "player": "Sean Taylor",
+   "team": "Washington Redskins",
+   "year": "2004",
+   "set": "Bowman Chrome",
+   "variation": "X-fractor",
+   "cardNo": "120",
+   "printRun": 250,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "49812103",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-01-01",
+   "photos": {
+    "front": "img/cards/MHC-0388/front.jpg",
+    "frontThumb": "img/cards/MHC-0388/front-thumb.jpg",
+    "back": "img/cards/MHC-0388/back.jpg",
+    "backThumb": "img/cards/MHC-0388/back-thumb.jpg"
    }
   },
   {
@@ -373,6 +837,35 @@
     "frontThumb": "img/cards/MHC-0417/front-thumb.jpg",
     "back": "img/cards/MHC-0417/back.jpg",
     "backThumb": "img/cards/MHC-0417/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0418",
+   "sport": "Football",
+   "player": "Derrick Henry",
+   "team": "Tennessee Titans",
+   "year": "2016",
+   "set": "Panini Select",
+   "variation": "Field Level Tie-Dye",
+   "cardNo": "275",
+   "printRun": 25,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101118610",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-01-25",
+   "photos": {
+    "front": "img/cards/MHC-0418/front.jpg",
+    "frontThumb": "img/cards/MHC-0418/front-thumb.jpg",
+    "back": "img/cards/MHC-0418/back.jpg",
+    "backThumb": "img/cards/MHC-0418/back-thumb.jpg"
    }
   },
   {
@@ -485,6 +978,35 @@
    "photos": {
     "front": "img/cards/MHC-0443/front.jpg",
     "frontThumb": "img/cards/MHC-0443/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0453",
+   "sport": "Football",
+   "player": "Deuce McAllister",
+   "team": "New Orleans Saints",
+   "year": "2001",
+   "set": "Topps Chrome",
+   "variation": "Black Refractor",
+   "cardNo": "258",
+   "printRun": 100,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "95223710",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-02-12",
+   "photos": {
+    "front": "img/cards/MHC-0453/front.jpg",
+    "frontThumb": "img/cards/MHC-0453/front-thumb.jpg",
+    "back": "img/cards/MHC-0453/back.jpg",
+    "backThumb": "img/cards/MHC-0453/back-thumb.jpg"
    }
   },
   {
@@ -731,6 +1253,35 @@
    }
   },
   {
+   "id": "MHC-0608",
+   "sport": "Football",
+   "player": "Jamal Lewis",
+   "team": "Baltimore Ravens",
+   "year": "2003",
+   "set": "Topps Chrome",
+   "variation": "Gold Xfractor",
+   "cardNo": "96",
+   "printRun": 101,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "134844172",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-07-28",
+   "photos": {
+    "front": "img/cards/MHC-0608/front.jpg",
+    "frontThumb": "img/cards/MHC-0608/front-thumb.jpg",
+    "back": "img/cards/MHC-0608/back.jpg",
+    "backThumb": "img/cards/MHC-0608/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0611",
    "sport": "Football",
    "player": "Jamal Lewis",
@@ -832,6 +1383,35 @@
    "photos": {
     "front": "img/cards/MHC-0647/front.jpg",
     "frontThumb": "img/cards/MHC-0647/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0654",
+   "sport": "Football",
+   "player": "Domanick Davis",
+   "team": "Houston Texans",
+   "year": "2005",
+   "set": "Topps Finest",
+   "variation": "Gold X-Fractor",
+   "cardNo": "39",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "99092592",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-09-23",
+   "photos": {
+    "front": "img/cards/MHC-0654/front.jpg",
+    "frontThumb": "img/cards/MHC-0654/front-thumb.jpg",
+    "back": "img/cards/MHC-0654/back.jpg",
+    "backThumb": "img/cards/MHC-0654/back-thumb.jpg"
    }
   },
   {
@@ -1333,6 +1913,35 @@
    "photos": {
     "front": "img/cards/MHC-0719/front.jpg",
     "frontThumb": "img/cards/MHC-0719/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0723",
+   "sport": "Hockey",
+   "player": "Paul Kariya",
+   "team": "Anaheim Mighty Ducks",
+   "year": "2000",
+   "set": "Upper Deck MVP",
+   "variation": "First Star",
+   "cardNo": "4",
+   "printRun": 25,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "125199642",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-12-29",
+   "photos": {
+    "front": "img/cards/MHC-0723/front.jpg",
+    "frontThumb": "img/cards/MHC-0723/front-thumb.jpg",
+    "back": "img/cards/MHC-0723/back.jpg",
+    "backThumb": "img/cards/MHC-0723/back-thumb.jpg"
    }
   },
   {
@@ -8358,6 +8967,35 @@
    "photos": {
     "front": "img/cards/MHC-1292/front.jpg",
     "frontThumb": "img/cards/MHC-1292/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1293",
+   "sport": "Football",
+   "player": "Santa Claus",
+   "team": "",
+   "year": "1990",
+   "set": "Pro Set",
+   "variation": "",
+   "cardNo": "1990",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "7",
+    "label": "NM"
+   },
+   "cert": "148254951",
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-10-13",
+   "photos": {
+    "front": "img/cards/MHC-1293/front.jpg",
+    "frontThumb": "img/cards/MHC-1293/front-thumb.jpg",
+    "back": "img/cards/MHC-1293/back.jpg",
+    "backThumb": "img/cards/MHC-1293/back-thumb.jpg"
    }
   },
   {
