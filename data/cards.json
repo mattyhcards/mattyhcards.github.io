@@ -1168,6 +1168,33 @@
    }
   },
   {
+   "id": "MHC-0563",
+   "sport": "Football",
+   "player": "Jevon Kearse",
+   "team": "Tennessee Titans",
+   "year": "1999",
+   "set": "Skybox Metal Universe",
+   "variation": "Precious Metal Gems",
+   "cardNo": "220",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "6",
+    "label": "EX-MT"
+   },
+   "cert": "134348288",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-05-20",
+   "photos": {
+    "front": "img/cards/MHC-0563/front.jpg",
+    "frontThumb": "img/cards/MHC-0563/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0564",
    "sport": "Hockey",
    "player": "Paul Kariya",
@@ -5972,6 +5999,33 @@
    }
   },
   {
+   "id": "MHC-1009",
+   "sport": "Baseball",
+   "player": "Nomar Garciaparra",
+   "team": "Boston Red Sox",
+   "year": "1998",
+   "set": "Skybox Metal Universe",
+   "variation": "Precious Metal Gems",
+   "cardNo": "16",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "5",
+    "label": "EX"
+   },
+   "cert": "143411372",
+   "tags": [],
+   "top100": 1,
+   "acquired": "2026-07-22",
+   "photos": {
+    "front": "img/cards/MHC-1009/front.jpg",
+    "frontThumb": "img/cards/MHC-1009/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1010",
    "sport": "Baseball",
    "player": "Grant Taylor",
@@ -8142,6 +8196,35 @@
    }
   },
   {
+   "id": "MHC-1158",
+   "sport": "Basketball",
+   "player": "Dylan Harper",
+   "team": "San Antonio Spurs",
+   "year": "2025",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "202",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "160189425",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-09-20",
+   "photos": {
+    "front": "img/cards/MHC-1158/front.jpg",
+    "frontThumb": "img/cards/MHC-1158/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1160",
    "sport": "Baseball",
    "player": "Carlos Gonzalez",
@@ -8304,6 +8387,33 @@
    "photos": {
     "front": "img/cards/MHC-1168/front.jpg",
     "frontThumb": "img/cards/MHC-1168/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1169",
+   "sport": "Football",
+   "player": "Bijan Robinson",
+   "team": "Atlanta Falcons",
+   "year": "2023",
+   "set": "Panini Select",
+   "variation": "Cosmic \u00b7 Field Level",
+   "cardNo": "296",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "116635925",
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-09-24",
+   "photos": {
+    "front": "img/cards/MHC-1169/front.jpg",
+    "frontThumb": "img/cards/MHC-1169/front-thumb.jpg"
    }
   },
   {
