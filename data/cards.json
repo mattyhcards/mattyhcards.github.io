@@ -10435,6 +10435,87 @@
    }
   },
   {
+   "id": "MHC-1176",
+   "sport": "Baseball",
+   "player": "Manny Machado",
+   "team": "Baltimore Orioles",
+   "year": "2018",
+   "set": "Topps Heritage",
+   "variation": "Throwback",
+   "cardNo": "151",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "41077965",
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-09-28",
+   "photos": {
+    "front": "img/cards/MHC-1176/front.jpg",
+    "frontThumb": "img/cards/MHC-1176/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1177",
+   "sport": "Baseball",
+   "player": "Alex Bregman",
+   "team": "Houston Astros",
+   "year": "2018",
+   "set": "Topps Heritage",
+   "variation": "Throwback",
+   "cardNo": "119",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "40961445",
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-09-28",
+   "photos": {
+    "front": "img/cards/MHC-1177/front.jpg",
+    "frontThumb": "img/cards/MHC-1177/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1178",
+   "sport": "Baseball",
+   "player": "Zack Greinke",
+   "team": "Arizona Diamondbacks",
+   "year": "2019",
+   "set": "Topps Heritage",
+   "variation": "Throwback",
+   "cardNo": "442",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "44732528",
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-09-28",
+   "photos": {
+    "front": "img/cards/MHC-1178/front.jpg",
+    "frontThumb": "img/cards/MHC-1178/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1179",
    "sport": "Baseball",
    "player": "Grant Taylor",
