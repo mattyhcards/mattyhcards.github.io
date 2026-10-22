@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20",
+ "generated": "2026-10-21",
  "cards": [
   {
    "id": "MHC-0002",
@@ -354,6 +354,37 @@
    }
   },
   {
+   "id": "MHC-0170",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "12",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "96793691",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-06-16",
+   "photos": {
+    "front": "img/cards/MHC-0170/front.jpg",
+    "frontThumb": "img/cards/MHC-0170/front-thumb.jpg",
+    "back": "img/cards/MHC-0170/back.jpg",
+    "backThumb": "img/cards/MHC-0170/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0185",
    "sport": "Football",
    "player": "Kyle Hamilton",
@@ -411,6 +442,37 @@
     "frontThumb": "img/cards/MHC-0194/front-thumb.jpg",
     "back": "img/cards/MHC-0194/back.jpg",
     "backThumb": "img/cards/MHC-0194/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0200",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Memorial Day Camo",
+   "cardNo": "12",
+   "printRun": 25,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "96793692",
+   "tags": [
+    "The Bullpen"
+   ],
+   "top100": null,
+   "acquired": "2024-07-14",
+   "photos": {
+    "front": "img/cards/MHC-0200/front.jpg",
+    "frontThumb": "img/cards/MHC-0200/front-thumb.jpg",
+    "back": "img/cards/MHC-0200/back.jpg",
+    "backThumb": "img/cards/MHC-0200/back-thumb.jpg"
    }
   },
   {
@@ -561,6 +623,31 @@
    }
   },
   {
+   "id": "MHC-0228",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Purple Speckle Refractor Auto",
+   "cardNo": "RA-BWO",
+   "printRun": 299,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-08-30",
+   "photos": {
+    "front": "img/cards/MHC-0228/front.jpg",
+    "frontThumb": "img/cards/MHC-0228/front-thumb.jpg",
+    "back": "img/cards/MHC-0228/back.jpg",
+    "backThumb": "img/cards/MHC-0228/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0230",
    "sport": "Football",
    "player": "Dunta Robinson",
@@ -587,6 +674,60 @@
     "frontThumb": "img/cards/MHC-0230/front-thumb.jpg",
     "back": "img/cards/MHC-0230/back.jpg",
     "backThumb": "img/cards/MHC-0230/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0233",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Purple Auto",
+   "cardNo": "RABWO",
+   "printRun": 250,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "101686982",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-09-05",
+   "photos": {
+    "front": "img/cards/MHC-0233/front.jpg",
+    "frontThumb": "img/cards/MHC-0233/front-thumb.jpg",
+    "back": "img/cards/MHC-0233/back.jpg",
+    "backThumb": "img/cards/MHC-0233/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0236",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Green Refractor Auto",
+   "cardNo": "RA-BWO",
+   "printRun": 99,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-09-08",
+   "photos": {
+    "front": "img/cards/MHC-0236/front.jpg",
+    "frontThumb": "img/cards/MHC-0236/front-thumb.jpg",
+    "back": "img/cards/MHC-0236/back.jpg",
+    "backThumb": "img/cards/MHC-0236/back-thumb.jpg"
    }
   },
   {
@@ -648,6 +789,35 @@
    }
   },
   {
+   "id": "MHC-0247",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Red Refractor",
+   "cardNo": "172",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101686987",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-09-21",
+   "photos": {
+    "front": "img/cards/MHC-0247/front.jpg",
+    "frontThumb": "img/cards/MHC-0247/front-thumb.jpg",
+    "back": "img/cards/MHC-0247/back.jpg",
+    "backThumb": "img/cards/MHC-0247/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0253",
    "sport": "Baseball",
    "player": "Teoscar Hernandez",
@@ -677,6 +847,64 @@
    }
   },
   {
+   "id": "MHC-0254",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Rookie Autographs \u00b7 Blue Refractor",
+   "cardNo": "RA-BWO",
+   "printRun": 150,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101686984",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-09-26",
+   "photos": {
+    "front": "img/cards/MHC-0254/front.jpg",
+    "frontThumb": "img/cards/MHC-0254/front-thumb.jpg",
+    "back": "img/cards/MHC-0254/back.jpg",
+    "backThumb": "img/cards/MHC-0254/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0259",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Rookie Autographs \u00b7 Refractor",
+   "cardNo": "RA-BWO",
+   "printRun": 499,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101686981",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-10-01",
+   "photos": {
+    "front": "img/cards/MHC-0259/front.jpg",
+    "frontThumb": "img/cards/MHC-0259/front-thumb.jpg",
+    "back": "img/cards/MHC-0259/back.jpg",
+    "backThumb": "img/cards/MHC-0259/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0260",
    "sport": "Baseball",
    "player": "Nomar Garciaparra & Alex Rodriguez",
@@ -699,6 +927,35 @@
     "frontThumb": "img/cards/MHC-0260/front-thumb.jpg",
     "back": "img/cards/MHC-0260/back.jpg",
     "backThumb": "img/cards/MHC-0260/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0268",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Flip Stock",
+   "cardNo": "245",
+   "printRun": 5,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101686997",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-10-08",
+   "photos": {
+    "front": "img/cards/MHC-0268/front.jpg",
+    "frontThumb": "img/cards/MHC-0268/front-thumb.jpg",
+    "back": "img/cards/MHC-0268/back.jpg",
+    "backThumb": "img/cards/MHC-0268/back-thumb.jpg"
    }
   },
   {
@@ -761,6 +1018,37 @@
     "frontThumb": "img/cards/MHC-0278/front-thumb.jpg",
     "back": "img/cards/MHC-0278/back.jpg",
     "backThumb": "img/cards/MHC-0278/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0288",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Golden Mirror",
+   "cardNo": "12",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "101686993",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-10-22",
+   "photos": {
+    "front": "img/cards/MHC-0288/front.jpg",
+    "frontThumb": "img/cards/MHC-0288/front-thumb.jpg",
+    "back": "img/cards/MHC-0288/back.jpg",
+    "backThumb": "img/cards/MHC-0288/back-thumb.jpg"
    }
   },
   {
@@ -1017,7 +1305,9 @@
    "acquired": "2024-12-02",
    "photos": {
     "front": "img/cards/MHC-0331/front.jpg",
-    "frontThumb": "img/cards/MHC-0331/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0331/front-thumb.jpg",
+    "back": "img/cards/MHC-0331/back.jpg",
+    "backThumb": "img/cards/MHC-0331/back-thumb.jpg"
    }
   },
   {
@@ -1077,6 +1367,126 @@
    }
   },
   {
+   "id": "MHC-0341",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Holiday",
+   "variation": "Holiday Plaid",
+   "cardNo": "H193",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "101686989",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-12-06",
+   "photos": {
+    "front": "img/cards/MHC-0341/front.jpg",
+    "frontThumb": "img/cards/MHC-0341/front-thumb.jpg",
+    "back": "img/cards/MHC-0341/back.jpg",
+    "backThumb": "img/cards/MHC-0341/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0342",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Independence Day",
+   "cardNo": "12",
+   "printRun": 76,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "105417792",
+   "tags": [
+    "The Bullpen"
+   ],
+   "top100": null,
+   "acquired": "2024-12-06",
+   "photos": {
+    "front": "img/cards/MHC-0342/front.jpg",
+    "frontThumb": "img/cards/MHC-0342/front-thumb.jpg",
+    "back": "img/cards/MHC-0342/back.jpg",
+    "backThumb": "img/cards/MHC-0342/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0344",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "245",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "99252643",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-12-08",
+   "photos": {
+    "front": "img/cards/MHC-0344/front.jpg",
+    "frontThumb": "img/cards/MHC-0344/front-thumb.jpg",
+    "back": "img/cards/MHC-0344/back.jpg",
+    "backThumb": "img/cards/MHC-0344/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0358",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Stadium Club",
+   "variation": "Chrome-Gold Minted",
+   "cardNo": "285",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "105417791",
+   "tags": [],
+   "top100": null,
+   "acquired": "2024-12-15",
+   "photos": {
+    "front": "img/cards/MHC-0358/front.jpg",
+    "frontThumb": "img/cards/MHC-0358/front-thumb.jpg",
+    "back": "img/cards/MHC-0358/back.jpg",
+    "backThumb": "img/cards/MHC-0358/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0363",
    "sport": "Other",
    "player": "Chris Fowler",
@@ -1099,6 +1509,37 @@
     "frontThumb": "img/cards/MHC-0363/front-thumb.jpg",
     "back": "img/cards/MHC-0363/back.jpg",
     "backThumb": "img/cards/MHC-0363/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0364",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor Auto",
+   "cardNo": "RA-BWO",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "105417789",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-12-16",
+   "photos": {
+    "front": "img/cards/MHC-0364/front.jpg",
+    "frontThumb": "img/cards/MHC-0364/front-thumb.jpg",
+    "back": "img/cards/MHC-0364/back.jpg",
+    "backThumb": "img/cards/MHC-0364/back-thumb.jpg"
    }
   },
   {
@@ -1359,6 +1800,35 @@
    }
   },
   {
+   "id": "MHC-0419",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Orange Refractor Auto",
+   "cardNo": "RA-BWO",
+   "printRun": 25,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "99735120",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-01-26",
+   "photos": {
+    "front": "img/cards/MHC-0419/front.jpg",
+    "frontThumb": "img/cards/MHC-0419/front-thumb.jpg",
+    "back": "img/cards/MHC-0419/back.jpg",
+    "backThumb": "img/cards/MHC-0419/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0428",
    "sport": "Baseball",
    "player": "Ketel Marte",
@@ -1558,6 +2028,64 @@
    }
   },
   {
+   "id": "MHC-0461",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Black Refractor",
+   "cardNo": "172",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101686986",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-02-20",
+   "photos": {
+    "front": "img/cards/MHC-0461/front.jpg",
+    "frontThumb": "img/cards/MHC-0461/front-thumb.jpg",
+    "back": "img/cards/MHC-0461/back.jpg",
+    "backThumb": "img/cards/MHC-0461/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0469",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Image Variation",
+   "cardNo": "245",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "101686996",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-02-26",
+   "photos": {
+    "front": "img/cards/MHC-0469/front.jpg",
+    "frontThumb": "img/cards/MHC-0469/front-thumb.jpg",
+    "back": "img/cards/MHC-0469/back.jpg",
+    "backThumb": "img/cards/MHC-0469/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0472",
    "sport": "Baseball",
    "player": "Teoscar Hernandez",
@@ -1616,6 +2144,35 @@
    }
   },
   {
+   "id": "MHC-0482",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Big League",
+   "variation": "Wrapper Redemption Foilfractor",
+   "cardNo": "WR79",
+   "printRun": 1,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "A",
+    "label": "AUTHENTIC"
+   },
+   "cert": "110455681",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-03-06",
+   "photos": {
+    "front": "img/cards/MHC-0482/front.jpg",
+    "frontThumb": "img/cards/MHC-0482/front-thumb.jpg",
+    "back": "img/cards/MHC-0482/back.jpg",
+    "backThumb": "img/cards/MHC-0482/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0485",
    "sport": "Baseball",
    "player": "Gavin Williams",
@@ -1644,6 +2201,37 @@
     "frontThumb": "img/cards/MHC-0485/front-thumb.jpg",
     "back": "img/cards/MHC-0485/back.jpg",
     "backThumb": "img/cards/MHC-0485/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0487",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Heritage",
+   "variation": "Red Ink Auto",
+   "cardNo": "ROA-BW",
+   "printRun": 75,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101864527",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-03-10",
+   "photos": {
+    "front": "img/cards/MHC-0487/front.jpg",
+    "frontThumb": "img/cards/MHC-0487/front-thumb.jpg",
+    "back": "img/cards/MHC-0487/back.jpg",
+    "backThumb": "img/cards/MHC-0487/back-thumb.jpg"
    }
   },
   {
@@ -2024,6 +2612,37 @@
    }
   },
   {
+   "id": "MHC-0562",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "Mother's Day Hot Pink",
+   "cardNo": "12",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "134844183",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-05-19",
+   "photos": {
+    "front": "img/cards/MHC-0562/front.jpg",
+    "frontThumb": "img/cards/MHC-0562/front-thumb.jpg",
+    "back": "img/cards/MHC-0562/back.jpg",
+    "backThumb": "img/cards/MHC-0562/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0563",
    "sport": "Football",
    "player": "Jevon Kearse",
@@ -2257,6 +2876,56 @@
     "frontThumb": "img/cards/MHC-0597/front-thumb.jpg",
     "back": "img/cards/MHC-0597/back.jpg",
     "backThumb": "img/cards/MHC-0597/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0598",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Black Refractor Auto",
+   "cardNo": "RA-BWO",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-07-15",
+   "photos": {
+    "front": "img/cards/MHC-0598/front.jpg",
+    "frontThumb": "img/cards/MHC-0598/front-thumb.jpg",
+    "back": "img/cards/MHC-0598/back.jpg",
+    "backThumb": "img/cards/MHC-0598/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0600",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps Allen & Ginter",
+   "variation": "Mini Stained Glass",
+   "cardNo": "78",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-07-17",
+   "photos": {
+    "front": "img/cards/MHC-0600/front.jpg",
+    "frontThumb": "img/cards/MHC-0600/front-thumb.jpg",
+    "back": "img/cards/MHC-0600/back.jpg",
+    "backThumb": "img/cards/MHC-0600/back-thumb.jpg"
    }
   },
   {
@@ -2651,6 +3320,35 @@
    "photos": {
     "front": "img/cards/MHC-0655/front.jpg",
     "frontThumb": "img/cards/MHC-0655/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0656",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "True Photo",
+   "cardNo": "12",
+   "printRun": null,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "119242425",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-09-28",
+   "photos": {
+    "front": "img/cards/MHC-0656/front.jpg",
+    "frontThumb": "img/cards/MHC-0656/front-thumb.jpg",
+    "back": "img/cards/MHC-0656/back.jpg",
+    "backThumb": "img/cards/MHC-0656/back-thumb.jpg"
    }
   },
   {
@@ -3409,6 +4107,31 @@
    "photos": {
     "front": "img/cards/MHC-0737/front.jpg",
     "frontThumb": "img/cards/MHC-0737/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0741",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Topps",
+   "variation": "1989 Topps Auto \u00b7 Black",
+   "cardNo": "89BA-BWOO",
+   "printRun": 199,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-01-16",
+   "photos": {
+    "front": "img/cards/MHC-0741/front.jpg",
+    "frontThumb": "img/cards/MHC-0741/front-thumb.jpg",
+    "back": "img/cards/MHC-0741/back.jpg",
+    "backThumb": "img/cards/MHC-0741/back-thumb.jpg"
    }
   },
   {
@@ -5969,7 +6692,9 @@
    "acquired": "2026-06-10",
    "photos": {
     "front": "img/cards/MHC-0906/front.jpg",
-    "frontThumb": "img/cards/MHC-0906/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0906/front-thumb.jpg",
+    "back": "img/cards/MHC-0906/back.jpg",
+    "backThumb": "img/cards/MHC-0906/back-thumb.jpg"
    }
   },
   {
@@ -10617,6 +11342,35 @@
     "frontThumb": "img/cards/MHC-1187/front-thumb.jpg",
     "back": "img/cards/MHC-1187/back.jpg",
     "backThumb": "img/cards/MHC-1187/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1189",
+   "sport": "Baseball",
+   "player": "Bryan Woo",
+   "team": "Seattle Mariners",
+   "year": "2024",
+   "set": "Bowman Chrome",
+   "variation": "Rookie Auto Gold Refractor",
+   "cardNo": "CRA-BW",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "121199913",
+   "tags": [],
+   "top100": null,
+   "acquired": "2025-12-08",
+   "photos": {
+    "front": "img/cards/MHC-1189/front.jpg",
+    "frontThumb": "img/cards/MHC-1189/front-thumb.jpg",
+    "back": "img/cards/MHC-1189/back.jpg",
+    "backThumb": "img/cards/MHC-1189/back-thumb.jpg"
    }
   },
   {
