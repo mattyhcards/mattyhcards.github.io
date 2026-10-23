@@ -6,7 +6,7 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const slug = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const COLORS = ['o', 'g', 'r', 'k'];
 
-let CARDS = [], VIEW = [], ICONS = {}, TEAMLOGOS = {}, TEAMCODES = {}, FRANCHISES = {};
+let CARDS = [], VIEW = [], TILES = [], lastOrder = null, ICONS = {}, TEAMLOGOS = {}, TEAMCODES = {}, FRANCHISES = {};
 const franchise = t => FRANCHISES[t] || t;
 const SPORT_ICONS = {};
 const SPORTS = ['Baseball', 'Football', 'Basketball', 'Hockey', 'Tennis', 'Pokemon', 'Other'];
@@ -25,7 +25,7 @@ Promise.all([
   CARDS = data.cards.map((c, i) => ({ ...c, _i: i, _search: [c.player, c.team, c.year, c.set, c.variation, c.cardNo, c.id, ...(c.tags || [])].join(' ').toLowerCase() }));
   const deep = new URLSearchParams(location.hash.slice(1)).get('card');
   readHash(); buildControls(); render(); openFromHash(deep);
-}).catch(e => { $('#grid').innerHTML = `<p class="empty">Couldn't load the collection. ${esc(e.message)}</p>`; });
+}).catch(e => { TILES = []; $('#grid').innerHTML = `<p class="empty">Couldn't load the collection. ${esc(e.message)}</p>`; });
 
 /* ---------- url state ---------- */
 function readHash() {
@@ -77,7 +77,7 @@ function buildControls() {
   $('#f-graded').value = state.graded; $('#f-graded').onchange = e => { state.graded = e.target.value; render(); };
   $('#f-sort').value = state.sort; $('#f-sort').onchange = e => { state.sort = e.target.value; render(); };
   const q = $('#q'); q.value = state.q;
-  let t; q.oninput = () => { clearTimeout(t); t = setTimeout(() => { state.q = q.value.trim(); render(); }, 120); };
+  let t; q.oninput = () => { clearTimeout(t); t = setTimeout(() => { state.q = q.value.trim(); render(); }, 150); };
   const reset = () => { Object.assign(state, { q: '', tag: '', sport: '', team: '', year: '', set: '', graded: '', sort: state.sort }); buildControls(); render(); };
   $('#reset').onclick = reset; $('#empty-reset').onclick = reset;
 }
@@ -109,15 +109,28 @@ function render() {
   const nf = ['sport', 'team', 'year', 'set', 'graded'].filter(k => state[k]).length;
   $('#fcount').textContent = nf ? nf : '';
   $('#empty').hidden = VIEW.length > 0;
-  $('#grid').innerHTML = VIEW.map((c, i) => `
-    <button class="tile" data-i="${i}" aria-label="${esc(c.player)}, ${esc(c.year)} ${esc(c.set)} ${esc(c.variation)}">
+  // Tiles are built once, then shown/hidden and reordered. Rebuilding the grid on every keystroke made search feel slow.
+  const grid = $('#grid');
+  if (!TILES.length) {
+    grid.innerHTML = CARDS.map(c => `
+    <button class="tile" data-c="${c._i}" aria-label="${esc(c.player)}, ${esc(c.year)} ${esc(c.set)} ${esc(c.variation)}">
       <div class="ph">${photoHTML(c, true)}<div class="ticons">${iconList(c).map(k => iconHTML(k, c, 30)).join('')}</div></div>
       <div class="meta"><b>${esc(c.player)}</b><span>${esc(c.year)} ${esc(c.set)}</span><span>${esc(c.variation)}${c.grade ? ` · ${esc(c.grade.grader)} ${esc(c.grade.value)}` : ''}</span></div>
     </button>`).join('');
+    TILES = [...grid.children];
+  }
+  const order = VIEW.map(c => c._i).join(',');
+  if (order !== lastOrder) {
+    const show = new Set(VIEW.map(c => c._i));
+    TILES.forEach((t, i) => { const h = !show.has(i); if (t.hidden !== h) t.hidden = h; });
+    const visible = [...grid.children].filter(t => !t.hidden).map(t => +t.dataset.c).join(',');
+    if (visible !== order) { const f = document.createDocumentFragment(); VIEW.forEach(c => f.appendChild(TILES[c._i])); grid.appendChild(f); }
+    lastOrder = order;
+  }
   writeHash();
 }
 $('#ftoggle').onclick = () => { const f = $('#filters'), open = !f.classList.contains('open'); f.classList.toggle('open', open); $('#ftoggle').setAttribute('aria-expanded', String(open)); };
-$('#grid').addEventListener('click', e => { const t = e.target.closest('.tile'); if (t) openLB(+t.dataset.i, 0); });
+$('#grid').addEventListener('click', e => { const t = e.target.closest('.tile'); if (t) { const i = VIEW.findIndex(c => c._i === +t.dataset.c); if (i >= 0) openLB(i, 0); } });
 
 function photoHTML(c, thumb) {
   const src = c.photos && (thumb ? (c.photos.frontThumb || c.photos.front) : c.photos.front);
