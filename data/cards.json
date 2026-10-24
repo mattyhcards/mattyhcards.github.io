@@ -300,6 +300,35 @@
    }
   },
   {
+   "id": "MHC-0042",
+   "sport": "Football",
+   "player": "Reggie Bush",
+   "team": "New Orleans Saints",
+   "year": "2006",
+   "set": "Topps Heritage",
+   "variation": "Chrome Black Refractor",
+   "cardNo": "THC65",
+   "printRun": 52,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "92024146",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-02-20",
+   "photos": {
+    "front": "img/cards/MHC-0042/front.jpg",
+    "frontThumb": "img/cards/MHC-0042/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0046",
    "sport": "Football",
    "player": "Champ Bailey",
@@ -1054,6 +1083,37 @@
    }
   },
   {
+   "id": "MHC-0248",
+   "sport": "Baseball",
+   "player": "Ketel Marte",
+   "team": "Seattle Mariners",
+   "year": "2016",
+   "set": "Topps Chrome",
+   "variation": "Gold",
+   "cardNo": "121",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "105417796",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-09-22",
+   "photos": {
+    "front": "img/cards/MHC-0248/front.jpg",
+    "frontThumb": "img/cards/MHC-0248/front-thumb.jpg",
+    "back": "img/cards/MHC-0248/back.jpg",
+    "backThumb": "img/cards/MHC-0248/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0253",
    "sport": "Baseball",
    "player": "Teoscar Hernandez",
@@ -1195,6 +1255,37 @@
    }
   },
   {
+   "id": "MHC-0271",
+   "sport": "Baseball",
+   "player": "Justin Martinez",
+   "team": "Arizona Diamondbacks",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "159",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "101686968",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-10-11",
+   "photos": {
+    "front": "img/cards/MHC-0271/front.jpg",
+    "frontThumb": "img/cards/MHC-0271/front-thumb.jpg",
+    "back": "img/cards/MHC-0271/back.jpg",
+    "backThumb": "img/cards/MHC-0271/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0275",
    "sport": "Baseball",
    "player": "Skip Schumaker",
@@ -1254,6 +1345,37 @@
     "frontThumb": "img/cards/MHC-0278/front-thumb.jpg",
     "back": "img/cards/MHC-0278/back.jpg",
     "backThumb": "img/cards/MHC-0278/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0284",
+   "sport": "Baseball",
+   "player": "Jackson Chourio",
+   "team": "Milwaukee Brewers",
+   "year": "2024",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "161",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "96865314",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-10-19",
+   "photos": {
+    "front": "img/cards/MHC-0284/front.jpg",
+    "frontThumb": "img/cards/MHC-0284/front-thumb.jpg",
+    "back": "img/cards/MHC-0284/back.jpg",
+    "backThumb": "img/cards/MHC-0284/back-thumb.jpg"
    }
   },
   {
@@ -1489,6 +1611,35 @@
    }
   },
   {
+   "id": "MHC-0327",
+   "sport": "Baseball",
+   "player": "Gunnar Henderson",
+   "team": "Baltimore Orioles",
+   "year": "2023",
+   "set": "Bowman Chrome",
+   "variation": "Image Variation Auto",
+   "cardNo": "10",
+   "printRun": 25,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "10",
+    "label": "GEM MT"
+   },
+   "cert": "89021264",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": 8,
+   "acquired": "2024-11-24",
+   "photos": {
+    "front": "img/cards/MHC-0327/front.jpg",
+    "frontThumb": "img/cards/MHC-0327/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-0330",
    "sport": "Baseball",
    "player": "Corbin Carroll",
@@ -1600,6 +1751,37 @@
    "photos": {
     "front": "img/cards/MHC-0334/front.jpg",
     "frontThumb": "img/cards/MHC-0334/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0339",
+   "sport": "Baseball",
+   "player": "Francisco Lindor",
+   "team": "Cleveland Indians",
+   "year": "2015",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "202",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "57546407",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2024-12-05",
+   "photos": {
+    "front": "img/cards/MHC-0339/front.jpg",
+    "frontThumb": "img/cards/MHC-0339/front-thumb.jpg",
+    "back": "img/cards/MHC-0339/back.jpg",
+    "backThumb": "img/cards/MHC-0339/back-thumb.jpg"
    }
   },
   {
@@ -1923,6 +2105,35 @@
     "frontThumb": "img/cards/MHC-0398/front-thumb.jpg",
     "back": "img/cards/MHC-0398/back.jpg",
     "backThumb": "img/cards/MHC-0398/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0399",
+   "sport": "Baseball",
+   "player": "Bryce Miller",
+   "team": "Seattle Mariners",
+   "year": "2023",
+   "set": "Topps Chrome Update",
+   "variation": "Gold",
+   "cardNo": "USC131",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "105417794",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-01-09",
+   "photos": {
+    "front": "img/cards/MHC-0399/front.jpg",
+    "frontThumb": "img/cards/MHC-0399/front-thumb.jpg"
    }
   },
   {
@@ -2371,6 +2582,37 @@
     "frontThumb": "img/cards/MHC-0438/front-thumb.jpg",
     "back": "img/cards/MHC-0438/back.jpg",
     "backThumb": "img/cards/MHC-0438/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-0439",
+   "sport": "Baseball",
+   "player": "Christian Yelich",
+   "team": "Miami Marlins",
+   "year": "2013",
+   "set": "Topps Chrome Update",
+   "variation": "Gold Refractor",
+   "cardNo": "MB-47",
+   "printRun": 250,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "95991373",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2025-02-05",
+   "photos": {
+    "front": "img/cards/MHC-0439/front.jpg",
+    "frontThumb": "img/cards/MHC-0439/front-thumb.jpg",
+    "back": "img/cards/MHC-0439/back.jpg",
+    "backThumb": "img/cards/MHC-0439/back-thumb.jpg"
    }
   },
   {
@@ -9338,7 +9580,9 @@
    "acquired": "2026-07-20",
    "photos": {
     "front": "img/cards/MHC-1001/front.jpg",
-    "frontThumb": "img/cards/MHC-1001/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-1001/front-thumb.jpg",
+    "back": "img/cards/MHC-1001/back.jpg",
+    "backThumb": "img/cards/MHC-1001/back-thumb.jpg"
    }
   },
   {
@@ -13521,7 +13765,7 @@
    "cert": null,
    "tags": [],
    "top100": null,
-   "acquired": null,
+   "acquired": "2024-10-15",
    "photos": {
     "front": "img/cards/MHC-1305/front.jpg",
     "frontThumb": "img/cards/MHC-1305/front-thumb.jpg",
