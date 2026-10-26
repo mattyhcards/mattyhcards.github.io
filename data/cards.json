@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24",
+ "generated": "2026-10-26",
  "cards": [
   {
    "id": "MHC-0001",
@@ -5842,31 +5842,6 @@
    "photos": {
     "front": "img/cards/MHC-0766/front.jpg",
     "frontThumb": "img/cards/MHC-0766/front-thumb.jpg"
-   }
-  },
-  {
-   "id": "MHC-0768",
-   "sport": "Baseball",
-   "player": "Mason Miller",
-   "team": "Oakland Athletics",
-   "year": "2023",
-   "set": "Topps Heritage",
-   "variation": "Chrome Black Refractor",
-   "cardNo": "510",
-   "printRun": 74,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2026-02-24",
-   "photos": {
-    "front": "img/cards/MHC-0768/front.jpg",
-    "frontThumb": "img/cards/MHC-0768/front-thumb.jpg"
    }
   },
   {
@@ -13724,7 +13699,7 @@
    "sport": "Pokemon",
    "player": "Typhlosion",
    "team": "",
-   "year": "1999",
+   "year": "2000",
    "set": "Pokemon Japanese Neo Promo",
    "variation": "Holo Premium File",
    "cardNo": "157",
