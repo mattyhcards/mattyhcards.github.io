@@ -13137,6 +13137,66 @@
    }
   },
   {
+   "id": "MHC-1237",
+   "sport": "Baseball",
+   "player": "Tarik Skubal",
+   "team": "Detroit Tigers",
+   "year": "2021",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "92",
+   "printRun": 70,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8.5",
+    "label": ""
+   },
+   "cert": "85794345",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-10-04",
+   "photos": {
+    "front": "img/cards/MHC-1237/front.jpg",
+    "frontThumb": "img/cards/MHC-1237/front-thumb.jpg",
+    "back": "img/cards/MHC-1237/back.jpg",
+    "backThumb": "img/cards/MHC-1237/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1238",
+   "sport": "Football",
+   "player": "Mark Brunell",
+   "team": "Jacksonville Jaguars",
+   "year": "1999",
+   "set": "Skybox Metal Universe",
+   "variation": "Precious Metal Gems",
+   "cardNo": "24",
+   "printRun": 50,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "7",
+    "label": "NM"
+   },
+   "cert": "130360026",
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-10-04",
+   "photos": {
+    "front": "img/cards/MHC-1238/front.jpg",
+    "frontThumb": "img/cards/MHC-1238/front-thumb.jpg",
+    "back": "img/cards/MHC-1238/back.jpg",
+    "backThumb": "img/cards/MHC-1238/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1245",
    "sport": "Baseball",
    "player": "Nomar Garciaparra",
@@ -13379,6 +13439,37 @@
    }
   },
   {
+   "id": "MHC-1283",
+   "sport": "Baseball",
+   "player": "Christian Yelich",
+   "team": "Miami Marlins",
+   "year": "2013",
+   "set": "Topps Update",
+   "variation": "Black",
+   "cardNo": "US290",
+   "printRun": 62,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "BGS",
+    "value": "8.5",
+    "label": ""
+   },
+   "cert": "0011820364",
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-10-10",
+   "photos": {
+    "front": "img/cards/MHC-1283/front.jpg",
+    "frontThumb": "img/cards/MHC-1283/front-thumb.jpg",
+    "back": "img/cards/MHC-1283/back.jpg",
+    "backThumb": "img/cards/MHC-1283/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1284",
    "sport": "Baseball",
    "player": "Tony Batista",
@@ -13401,6 +13492,33 @@
     "frontThumb": "img/cards/MHC-1284/front-thumb.jpg",
     "back": "img/cards/MHC-1284/back.jpg",
     "backThumb": "img/cards/MHC-1284/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1285",
+   "sport": "Football",
+   "player": "Asante Samuel",
+   "team": "Philadelphia Eagles",
+   "year": "2008",
+   "set": "Topps",
+   "variation": "Black",
+   "cardNo": "250",
+   "printRun": 53,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "08 NFL Black"
+   ],
+   "top100": null,
+   "acquired": "2026-10-11",
+   "photos": {
+    "front": "img/cards/MHC-1285/front.jpg",
+    "frontThumb": "img/cards/MHC-1285/front-thumb.jpg",
+    "back": "img/cards/MHC-1285/back.jpg",
+    "backThumb": "img/cards/MHC-1285/back-thumb.jpg"
    }
   },
   {
@@ -13613,6 +13731,33 @@
     "frontThumb": "img/cards/MHC-1298/front-thumb.jpg",
     "back": "img/cards/MHC-1298/back.jpg",
     "backThumb": "img/cards/MHC-1298/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1299",
+   "sport": "Baseball",
+   "player": "Trevor Story",
+   "team": "Colorado Rockies",
+   "year": "2016",
+   "set": "Topps Dynasty",
+   "variation": "Patch Auto",
+   "cardNo": "AP-TS3",
+   "printRun": 10,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-10-19",
+   "photos": {
+    "front": "img/cards/MHC-1299/front.jpg",
+    "frontThumb": "img/cards/MHC-1299/front-thumb.jpg",
+    "back": "img/cards/MHC-1299/back.jpg",
+    "backThumb": "img/cards/MHC-1299/back-thumb.jpg"
    }
   },
   {
