@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-10-27",
  "cards": [
   {
    "id": "MHC-0001",
@@ -10195,6 +10195,33 @@
    }
   },
   {
+   "id": "MHC-1049",
+   "sport": "Baseball",
+   "player": "Tim Hudson",
+   "team": "Oakland Athletics",
+   "year": "1999",
+   "set": "Bowman Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "375",
+   "printRun": 25,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "9",
+    "label": "MINT"
+   },
+   "cert": "174625665",
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-08-09",
+   "photos": {
+    "front": "img/cards/MHC-1049/front.jpg",
+    "frontThumb": "img/cards/MHC-1049/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1050",
    "sport": "Basketball",
    "player": "Ben Wallace",
@@ -13270,6 +13297,33 @@
    }
   },
   {
+   "id": "MHC-1248",
+   "sport": "Basketball",
+   "player": "Ben Wallace",
+   "team": "Detroit Pistons",
+   "year": "2005-06",
+   "set": "Topps Chrome",
+   "variation": "Gold Refractor",
+   "cardNo": "70",
+   "printRun": 99,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "86366695",
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-10-05",
+   "photos": {
+    "front": "img/cards/MHC-1248/front.jpg",
+    "frontThumb": "img/cards/MHC-1248/front-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1275",
    "sport": "Hockey",
    "player": "Paul Bissonnette",
@@ -14066,6 +14120,33 @@
     "frontThumb": "img/cards/MHC-1312/front-thumb.jpg",
     "back": "img/cards/MHC-1312/back.jpg",
     "backThumb": "img/cards/MHC-1312/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1314",
+   "sport": "Baseball",
+   "player": "Junior Caminero",
+   "team": "Tampa Bay Rays",
+   "year": "2026",
+   "set": "Topps Heritage",
+   "variation": "Throwback Jersey Variation",
+   "cardNo": "380",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": {
+    "grader": "PSA",
+    "value": "8",
+    "label": "NM-MT"
+   },
+   "cert": "172704214",
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-10-20",
+   "photos": {
+    "front": "img/cards/MHC-1314/front.jpg",
+    "frontThumb": "img/cards/MHC-1314/front-thumb.jpg"
    }
   }
  ]
