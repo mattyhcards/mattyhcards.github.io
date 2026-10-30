@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28",
+ "generated": "2026-10-30",
  "cards": [
   {
    "id": "MHC-0001",
@@ -13709,6 +13709,33 @@
    }
   },
   {
+   "id": "MHC-1294",
+   "sport": "Baseball",
+   "player": "Shohei Ohtani",
+   "team": "Los Angeles Angels",
+   "year": "2020",
+   "set": "Topps Opening Day",
+   "variation": "Image Variation",
+   "cardNo": "43",
+   "printRun": null,
+   "serial": null,
+   "ssp": true,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [
+    "Starting Nine"
+   ],
+   "top100": null,
+   "acquired": "2026-10-15",
+   "photos": {
+    "front": "img/cards/MHC-1294/front.jpg",
+    "frontThumb": "img/cards/MHC-1294/front-thumb.jpg",
+    "back": "img/cards/MHC-1294/back.jpg",
+    "backThumb": "img/cards/MHC-1294/back-thumb.jpg"
+   }
+  },
+  {
    "id": "MHC-1296",
    "sport": "Football",
    "player": "Santa Claus",
@@ -14174,6 +14201,56 @@
    "photos": {
     "front": "img/cards/MHC-1314/front.jpg",
     "frontThumb": "img/cards/MHC-1314/front-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1315",
+   "sport": "Football",
+   "player": "Jim Harbaugh",
+   "team": "San Diego Chargers",
+   "year": "2000",
+   "set": "Leaf Certified",
+   "variation": "Mirror Gold",
+   "cardNo": "77",
+   "printRun": 20,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-10-22",
+   "photos": {
+    "front": "img/cards/MHC-1315/front.jpg",
+    "frontThumb": "img/cards/MHC-1315/front-thumb.jpg",
+    "back": "img/cards/MHC-1315/back.jpg",
+    "backThumb": "img/cards/MHC-1315/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1317",
+   "sport": "Football",
+   "player": "Cooper Barkate",
+   "team": "Miami Hurricanes",
+   "year": "2026",
+   "set": "Bowman Chrome",
+   "variation": "1st Bowman Orange Geometric Auto",
+   "cardNo": "BCPA-CBA",
+   "printRun": 25,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-10-23",
+   "photos": {
+    "front": "img/cards/MHC-1317/front.jpg",
+    "frontThumb": "img/cards/MHC-1317/front-thumb.jpg",
+    "back": "img/cards/MHC-1317/back.jpg",
+    "backThumb": "img/cards/MHC-1317/back-thumb.jpg"
    }
   },
   {
