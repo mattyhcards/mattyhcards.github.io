@@ -5347,31 +5347,6 @@
    }
   },
   {
-   "id": "MHC-0737",
-   "sport": "Baseball",
-   "player": "Logan Webb",
-   "team": "San Francisco Giants",
-   "year": "2020",
-   "set": "Topps Chrome",
-   "variation": "Gold Refractor",
-   "cardNo": "117",
-   "printRun": 50,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2026-01-12",
-   "photos": {
-    "front": "img/cards/MHC-0737/front.jpg",
-    "frontThumb": "img/cards/MHC-0737/front-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0741",
    "sport": "Baseball",
    "player": "Bryan Woo",
