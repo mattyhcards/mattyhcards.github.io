@@ -7688,7 +7688,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 30,
    "acquired": "2026-06-07",
    "photos": {
     "front": "img/cards/MHC-0898/front.jpg",
@@ -7836,7 +7836,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 71,
    "acquired": "2026-06-11",
    "photos": {
     "front": "img/cards/MHC-0907/front.jpg",
@@ -7861,7 +7861,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 32,
    "acquired": "2026-06-11",
    "photos": {
     "front": "img/cards/MHC-0908/front.jpg",
@@ -7959,7 +7959,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 73,
    "acquired": "2026-06-16",
    "photos": {
     "front": "img/cards/MHC-0914/front.jpg",
@@ -8086,7 +8086,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 47,
    "acquired": "2026-06-19",
    "photos": {
     "front": "img/cards/MHC-0919/front.jpg",
@@ -8355,7 +8355,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 76,
    "acquired": "2026-06-24",
    "photos": {
     "front": "img/cards/MHC-0933/front.jpg",
@@ -8461,7 +8461,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 82,
    "acquired": "2026-06-26",
    "photos": {
     "front": "img/cards/MHC-0938/front.jpg",
@@ -8734,7 +8734,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 84,
    "acquired": "2026-07-02",
    "photos": {
     "front": "img/cards/MHC-0958/front.jpg",
@@ -8763,7 +8763,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 87,
    "acquired": "2026-07-02",
    "photos": {
     "front": "img/cards/MHC-0959/front.jpg",
@@ -8794,7 +8794,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 81,
    "acquired": "2026-07-02",
    "photos": {
     "front": "img/cards/MHC-0960/front.jpg",
@@ -8871,7 +8871,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 89,
    "acquired": "2026-07-05",
    "photos": {
     "front": "img/cards/MHC-0963/front.jpg",
@@ -9169,7 +9169,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 91,
    "acquired": "2026-07-12",
    "photos": {
     "front": "img/cards/MHC-0982/front.jpg",
@@ -9223,7 +9223,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 80,
    "acquired": "2026-07-14",
    "photos": {
     "front": "img/cards/MHC-0987/front.jpg",
@@ -9306,7 +9306,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 79,
    "acquired": "2026-07-16",
    "photos": {
     "front": "img/cards/MHC-0994/front.jpg",
@@ -9804,7 +9804,7 @@
    "tags": [
     "The Bullpen"
    ],
-   "top100": null,
+   "top100": 96,
    "acquired": "2026-07-31",
    "photos": {
     "front": "img/cards/MHC-1028/front.jpg",
@@ -9946,7 +9946,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 97,
    "acquired": "2026-08-05",
    "photos": {
     "front": "img/cards/MHC-1041/front.jpg",
@@ -10071,7 +10071,7 @@
    },
    "cert": "174625665",
    "tags": [],
-   "top100": null,
+   "top100": 26,
    "acquired": "2026-08-09",
    "photos": {
     "front": "img/cards/MHC-1049/front.jpg",
@@ -10098,7 +10098,7 @@
    },
    "cert": "164317823",
    "tags": [],
-   "top100": null,
+   "top100": 31,
    "acquired": "2026-08-09",
    "photos": {
     "front": "img/cards/MHC-1050/front.jpg",
@@ -10292,7 +10292,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 25,
    "acquired": "2026-08-16",
    "photos": {
     "front": "img/cards/MHC-1066/front.jpg",
@@ -10317,7 +10317,7 @@
    "tags": [
     "08 NFL Black"
    ],
-   "top100": null,
+   "top100": 64,
    "acquired": "2026-08-17",
    "photos": {
     "front": "img/cards/MHC-1068/front.jpg",
@@ -10413,7 +10413,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 98,
    "acquired": "2026-08-20",
    "photos": {
     "front": "img/cards/MHC-1075/front.jpg",
@@ -10515,7 +10515,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 93,
    "acquired": "2026-08-22",
    "photos": {
     "front": "img/cards/MHC-1081/front.jpg",
@@ -10571,7 +10571,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 37,
    "acquired": "2026-08-22",
    "photos": {
     "front": "img/cards/MHC-1083/front.jpg",
@@ -10790,7 +10790,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 100,
    "acquired": "2026-08-26",
    "photos": {
     "front": "img/cards/MHC-1098/front.jpg",
@@ -11182,7 +11182,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 74,
    "acquired": "2026-09-02",
    "photos": {
     "front": "img/cards/MHC-1117/front.jpg",
@@ -11563,7 +11563,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 95,
    "acquired": "2026-09-12",
    "photos": {
     "front": "img/cards/MHC-1135/front.jpg",
@@ -11667,7 +11667,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 28,
    "acquired": "2026-09-13",
    "photos": {
     "front": "img/cards/MHC-1139/front.jpg",
@@ -11771,7 +11771,7 @@
    },
    "cert": "165644395",
    "tags": [],
-   "top100": null,
+   "top100": 39,
    "acquired": "2026-09-15",
    "photos": {
     "front": "img/cards/MHC-1144/front.jpg",
@@ -11798,7 +11798,7 @@
    },
    "cert": "165644404",
    "tags": [],
-   "top100": null,
+   "top100": 78,
    "acquired": "2026-09-15",
    "photos": {
     "front": "img/cards/MHC-1145/front.jpg",
@@ -11850,7 +11850,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 94,
    "acquired": "2026-09-16",
    "photos": {
     "front": "img/cards/MHC-1147/front.jpg",
@@ -11983,7 +11983,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 63,
    "acquired": "2026-09-18",
    "photos": {
     "front": "img/cards/MHC-1154/front.jpg",
@@ -12058,7 +12058,7 @@
    },
    "cert": "88863071",
    "tags": [],
-   "top100": null,
+   "top100": 24,
    "acquired": "2026-09-20",
    "photos": {
     "front": "img/cards/MHC-1157/front.jpg",
@@ -12089,7 +12089,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 40,
    "acquired": "2026-09-20",
    "photos": {
     "front": "img/cards/MHC-1158/front.jpg",
@@ -12206,7 +12206,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 34,
    "acquired": "2026-09-24",
    "photos": {
     "front": "img/cards/MHC-1166/front.jpg",
@@ -12281,7 +12281,7 @@
    },
    "cert": "116635925",
    "tags": [],
-   "top100": null,
+   "top100": 72,
    "acquired": "2026-09-24",
    "photos": {
     "front": "img/cards/MHC-1169/front.jpg",
@@ -12483,7 +12483,7 @@
    "tags": [
     "08 NFL Black"
    ],
-   "top100": null,
+   "top100": 92,
    "acquired": "2025-10-15",
    "photos": {
     "front": "img/cards/MHC-1182/front.jpg",
@@ -12510,7 +12510,7 @@
    },
    "cert": "92676204",
    "tags": [],
-   "top100": null,
+   "top100": 66,
    "acquired": "2000-05-05",
    "photos": {
     "front": "img/cards/MHC-1183/front.jpg",
@@ -12626,7 +12626,7 @@
    },
    "cert": "82111809",
    "tags": [],
-   "top100": null,
+   "top100": 75,
    "acquired": "2025-09-20",
    "photos": {
     "front": "img/cards/MHC-1188/front.jpg",
@@ -12738,7 +12738,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 83,
    "acquired": "2026-04-01",
    "photos": {
     "front": "img/cards/MHC-1193/front.jpg",
@@ -12859,7 +12859,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 23,
    "acquired": "2026-02-12",
    "photos": {
     "front": "img/cards/MHC-1200/front.jpg",
@@ -12884,7 +12884,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 99,
    "acquired": null,
    "photos": {
     "front": "img/cards/MHC-1201/front.jpg",
@@ -12934,7 +12934,7 @@
    "tags": [
     "08 NFL Black"
    ],
-   "top100": null,
+   "top100": 69,
    "acquired": "2025-10-15",
    "photos": {
     "front": "img/cards/MHC-1203/front.jpg",
@@ -12984,7 +12984,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 85,
    "acquired": "2025-04-15",
    "photos": {
     "front": "img/cards/MHC-1217/front.jpg",
@@ -13071,7 +13071,7 @@
    },
    "cert": "130360026",
    "tags": [],
-   "top100": null,
+   "top100": 59,
    "acquired": "2026-10-04",
    "photos": {
     "front": "img/cards/MHC-1238/front.jpg",
@@ -13123,7 +13123,7 @@
    },
    "cert": "161981420",
    "tags": [],
-   "top100": null,
+   "top100": 54,
    "acquired": "2026-10-03",
    "photos": {
     "front": "img/cards/MHC-1246/front.jpg",
@@ -13221,7 +13221,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 51,
    "acquired": "2026-10-01",
    "photos": {
     "front": "img/cards/MHC-1277/front.jpg",
@@ -13271,7 +13271,7 @@
    "grade": null,
    "cert": null,
    "tags": [],
-   "top100": null,
+   "top100": 60,
    "acquired": "2026-10-06",
    "photos": {
     "front": "img/cards/MHC-1279/front.jpg",
@@ -13502,7 +13502,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 58,
    "acquired": "2026-10-12",
    "photos": {
     "front": "img/cards/MHC-1291/front.jpg",
@@ -13583,7 +13583,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 22,
    "acquired": "2026-10-15",
    "photos": {
     "front": "img/cards/MHC-1294/front.jpg",
@@ -13716,7 +13716,7 @@
    "tags": [
     "Starting Nine"
    ],
-   "top100": null,
+   "top100": 44,
    "acquired": "2026-08-15",
    "photos": {
     "front": "img/cards/MHC-1301/front.jpg",
@@ -14130,7 +14130,7 @@
    },
    "cert": "169068055",
    "tags": [],
-   "top100": null,
+   "top100": 50,
    "acquired": "2026-07-03",
    "photos": {
     "front": "img/cards/MHC-1319/front.jpg",
