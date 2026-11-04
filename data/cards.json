@@ -1083,37 +1083,6 @@
    }
   },
   {
-   "id": "MHC-0248",
-   "sport": "Baseball",
-   "player": "Ketel Marte",
-   "team": "Seattle Mariners",
-   "year": "2016",
-   "set": "Topps Chrome",
-   "variation": "Gold",
-   "cardNo": "121",
-   "printRun": 50,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": {
-    "grader": "PSA",
-    "value": "9",
-    "label": "MINT"
-   },
-   "cert": "105417796",
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2024-09-22",
-   "photos": {
-    "front": "img/cards/MHC-0248/front.jpg",
-    "frontThumb": "img/cards/MHC-0248/front-thumb.jpg",
-    "back": "img/cards/MHC-0248/back.jpg",
-    "backThumb": "img/cards/MHC-0248/back-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0253",
    "sport": "Baseball",
    "player": "Teoscar Hernandez",
@@ -1465,37 +1434,6 @@
     "frontThumb": "img/cards/MHC-0295/front-thumb.jpg",
     "back": "img/cards/MHC-0295/back.jpg",
     "backThumb": "img/cards/MHC-0295/back-thumb.jpg"
-   }
-  },
-  {
-   "id": "MHC-0301",
-   "sport": "Baseball",
-   "player": "Corbin Burnes",
-   "team": "Milwaukee Brewers",
-   "year": "2019",
-   "set": "Topps Chrome",
-   "variation": "Gold Refractor",
-   "cardNo": "84",
-   "printRun": 50,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": {
-    "grader": "PSA",
-    "value": "10",
-    "label": "GEM MT"
-   },
-   "cert": "105417795",
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2024-10-31",
-   "photos": {
-    "front": "img/cards/MHC-0301/front.jpg",
-    "frontThumb": "img/cards/MHC-0301/front-thumb.jpg",
-    "back": "img/cards/MHC-0301/back.jpg",
-    "backThumb": "img/cards/MHC-0301/back-thumb.jpg"
    }
   },
   {
