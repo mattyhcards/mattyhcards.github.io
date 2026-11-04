@@ -1224,37 +1224,6 @@
    }
   },
   {
-   "id": "MHC-0271",
-   "sport": "Baseball",
-   "player": "Justin Martinez",
-   "team": "Arizona Diamondbacks",
-   "year": "2024",
-   "set": "Topps Chrome",
-   "variation": "Gold Refractor",
-   "cardNo": "159",
-   "printRun": 50,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": {
-    "grader": "PSA",
-    "value": "9",
-    "label": "MINT"
-   },
-   "cert": "101686968",
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2024-10-11",
-   "photos": {
-    "front": "img/cards/MHC-0271/front.jpg",
-    "frontThumb": "img/cards/MHC-0271/front-thumb.jpg",
-    "back": "img/cards/MHC-0271/back.jpg",
-    "backThumb": "img/cards/MHC-0271/back-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0275",
    "sport": "Baseball",
    "player": "Skip Schumaker",
