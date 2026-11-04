@@ -4658,31 +4658,6 @@
    }
   },
   {
-   "id": "MHC-0684",
-   "sport": "Baseball",
-   "player": "Carlos Delgado",
-   "team": "Toronto Blue Jays",
-   "year": "1999",
-   "set": "Upper Deck Ultimate Victory",
-   "variation": "Ultimate Collection",
-   "cardNo": "118",
-   "printRun": 100,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [],
-   "top100": null,
-   "acquired": "2025-11-03",
-   "photos": {
-    "front": "img/cards/MHC-0684/front.jpg",
-    "frontThumb": "img/cards/MHC-0684/front-thumb.jpg",
-    "back": "img/cards/MHC-0684/back.jpg",
-    "backThumb": "img/cards/MHC-0684/back-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0687",
    "sport": "Baseball",
    "player": "Charlie Blackmon",
