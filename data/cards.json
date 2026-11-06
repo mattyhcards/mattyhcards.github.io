@@ -149,35 +149,6 @@
    }
   },
   {
-   "id": "MHC-0016",
-   "sport": "Football",
-   "player": "Lamar Jackson",
-   "team": "Baltimore Ravens",
-   "year": "2018",
-   "set": "Panini Donruss Optic",
-   "variation": "Downtown",
-   "cardNo": "DT-16",
-   "printRun": null,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": {
-    "grader": "PSA",
-    "value": "9",
-    "label": "MINT"
-   },
-   "cert": "66643791",
-   "tags": [],
-   "top100": null,
-   "acquired": "2023-09-08",
-   "photos": {
-    "front": "img/cards/MHC-0016/front.jpg",
-    "frontThumb": "img/cards/MHC-0016/front-thumb.jpg",
-    "back": "img/cards/MHC-0016/back.jpg",
-    "backThumb": "img/cards/MHC-0016/back-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0019",
    "sport": "Baseball",
    "player": "Anthony Santander",
