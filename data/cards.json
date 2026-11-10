@@ -3366,31 +3366,6 @@
    }
   },
   {
-   "id": "MHC-0560",
-   "sport": "Baseball",
-   "player": "Pedro Martinez",
-   "team": "Boston Red Sox",
-   "year": "2003",
-   "set": "Topps Chrome",
-   "variation": "Gold Refractor",
-   "cardNo": "283",
-   "printRun": 449,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [],
-   "top100": null,
-   "acquired": "2025-05-18",
-   "photos": {
-    "front": "img/cards/MHC-0560/front.jpg",
-    "frontThumb": "img/cards/MHC-0560/front-thumb.jpg",
-    "back": "img/cards/MHC-0560/back.jpg",
-    "backThumb": "img/cards/MHC-0560/back-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0562",
    "sport": "Baseball",
    "player": "Bryan Woo",
@@ -10624,29 +10599,6 @@
    "photos": {
     "front": "img/cards/MHC-1091/front.jpg",
     "frontThumb": "img/cards/MHC-1091/front-thumb.jpg"
-   }
-  },
-  {
-   "id": "MHC-1092",
-   "sport": "Football",
-   "player": "Larry Fitzgerald",
-   "team": "Arizona Cardinals",
-   "year": "2006",
-   "set": "Topps Heritage",
-   "variation": "Chrome Black Refractor",
-   "cardNo": "",
-   "printRun": 52,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [],
-   "top100": null,
-   "acquired": "2026-08-25",
-   "photos": {
-    "front": "img/cards/MHC-1092/front.jpg",
-    "frontThumb": "img/cards/MHC-1092/front-thumb.jpg"
    }
   },
   {
