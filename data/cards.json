@@ -1141,31 +1141,6 @@
    }
   },
   {
-   "id": "MHC-0260",
-   "sport": "Baseball",
-   "player": "Nomar Garciaparra & Alex Rodriguez",
-   "team": "Boston Red Sox / Texas Rangers",
-   "year": "2003",
-   "set": "Upper Deck Ultimate Collection",
-   "variation": "Dual Patch",
-   "cardNo": "",
-   "printRun": 99,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [],
-   "top100": null,
-   "acquired": "2024-10-01",
-   "photos": {
-    "front": "img/cards/MHC-0260/front.jpg",
-    "frontThumb": "img/cards/MHC-0260/front-thumb.jpg",
-    "back": "img/cards/MHC-0260/back.jpg",
-    "backThumb": "img/cards/MHC-0260/back-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0268",
    "sport": "Baseball",
    "player": "Bryan Woo",
@@ -3884,33 +3859,6 @@
    }
   },
   {
-   "id": "MHC-0619",
-   "sport": "Baseball",
-   "player": "Trevor Story",
-   "team": "Colorado Rockies",
-   "year": "2016",
-   "set": "Topps Heritage",
-   "variation": "Chrome Black Refractor",
-   "cardNo": "THC-707",
-   "printRun": 67,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2025-08-16",
-   "photos": {
-    "front": "img/cards/MHC-0619/front.jpg",
-    "frontThumb": "img/cards/MHC-0619/front-thumb.jpg",
-    "back": "img/cards/MHC-0619/back.jpg",
-    "backThumb": "img/cards/MHC-0619/back-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0621",
    "sport": "Baseball",
    "player": "Mike Mussina",
@@ -5909,35 +5857,6 @@
    "photos": {
     "front": "img/cards/MHC-0787/front.jpg",
     "frontThumb": "img/cards/MHC-0787/front-thumb.jpg"
-   }
-  },
-  {
-   "id": "MHC-0788",
-   "sport": "Baseball",
-   "player": "Paul Skenes",
-   "team": "Pittsburgh Pirates",
-   "year": "2024",
-   "set": "Topps Chrome Update",
-   "variation": "Gold Refractor",
-   "cardNo": "USC88",
-   "printRun": 50,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": {
-    "grader": "PSA",
-    "value": "9",
-    "label": "MINT"
-   },
-   "cert": "101463774",
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2026-03-15",
-   "photos": {
-    "front": "img/cards/MHC-0788/front.jpg",
-    "frontThumb": "img/cards/MHC-0788/front-thumb.jpg"
    }
   },
   {
