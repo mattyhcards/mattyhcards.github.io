@@ -6285,31 +6285,6 @@
    }
   },
   {
-   "id": "MHC-0810",
-   "sport": "Baseball",
-   "player": "Dylan Beavers",
-   "team": "Baltimore Orioles",
-   "year": "2026",
-   "set": "Topps Heritage",
-   "variation": "Chrome Black Refractor",
-   "cardNo": "",
-   "printRun": 77,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2026-04-03",
-   "photos": {
-    "front": "img/cards/MHC-0810/front.jpg",
-    "frontThumb": "img/cards/MHC-0810/front-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0811",
    "sport": "Baseball",
    "player": "Chase Burns",
