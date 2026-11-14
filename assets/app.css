@@ -163,3 +163,6 @@ main{flex:1;padding-block:22px 40px}
 .frame .ffoot img{position:absolute;top:-22px;left:50%;transform:translateX(-50%);width:46px}
 
 .frame.dense .serial b{font-size:44px}.frame.dense .serial i{font-size:24px}.frame.dense .icons .ic{width:50px!important;height:50px!important;--s:50px!important}
+
+/* iOS zooms in on any field under 16px when tapped. Keep fields at 16px on touch screens. */
+@media (pointer:coarse){input,select,textarea{font-size:16px!important}}
