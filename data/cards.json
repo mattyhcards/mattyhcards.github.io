@@ -6073,33 +6073,6 @@
    }
   },
   {
-   "id": "MHC-0801",
-   "sport": "Baseball",
-   "player": "Joe Ryan",
-   "team": "Minnesota Twins",
-   "year": "2022",
-   "set": "Topps Chrome",
-   "variation": "Gold Refractor Auto",
-   "cardNo": "RA-JR",
-   "printRun": 50,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2026-03-26",
-   "photos": {
-    "front": "img/cards/MHC-0801/front.jpg",
-    "frontThumb": "img/cards/MHC-0801/front-thumb.jpg",
-    "back": "img/cards/MHC-0801/back.jpg",
-    "backThumb": "img/cards/MHC-0801/back-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0803",
    "sport": "Baseball",
    "player": "Francisco Lindor",
@@ -6147,58 +6120,6 @@
    "photos": {
     "front": "img/cards/MHC-0804/front.jpg",
     "frontThumb": "img/cards/MHC-0804/front-thumb.jpg"
-   }
-  },
-  {
-   "id": "MHC-0805",
-   "sport": "Baseball",
-   "player": "Kyle Harrison",
-   "team": "San Francisco Giants",
-   "year": "2022",
-   "set": "Topps Heritage",
-   "variation": "Chrome Black Refractor",
-   "cardNo": "",
-   "printRun": 75,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2026-04-01",
-   "photos": {
-    "front": "img/cards/MHC-0805/front.jpg",
-    "frontThumb": "img/cards/MHC-0805/front-thumb.jpg",
-    "back": "img/cards/MHC-0805/back.jpg",
-    "backThumb": "img/cards/MHC-0805/back-thumb.jpg"
-   }
-  },
-  {
-   "id": "MHC-0806",
-   "sport": "Baseball",
-   "player": "Joe Ryan",
-   "team": "Minnesota Twins",
-   "year": "2022",
-   "set": "Topps Chrome",
-   "variation": "Gold Refractor",
-   "cardNo": "48",
-   "printRun": 50,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2026-04-02",
-   "photos": {
-    "front": "img/cards/MHC-0806/front.jpg",
-    "frontThumb": "img/cards/MHC-0806/front-thumb.jpg"
    }
   },
   {
