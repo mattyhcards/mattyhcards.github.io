@@ -12131,29 +12131,6 @@
    }
   },
   {
-   "id": "MHC-1174",
-   "sport": "Baseball",
-   "player": "Tom Glavine",
-   "team": "Atlanta Braves",
-   "year": "1999",
-   "set": "Upper Deck Ultimate Victory",
-   "variation": "Ultimate Collection",
-   "cardNo": "15",
-   "printRun": 100,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [],
-   "top100": null,
-   "acquired": "2026-09-26",
-   "photos": {
-    "front": "img/cards/MHC-1174/front.jpg",
-    "frontThumb": "img/cards/MHC-1174/front-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-1175",
    "sport": "Football",
    "player": "Maurice Clarett",
