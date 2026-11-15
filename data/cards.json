@@ -6414,33 +6414,6 @@
    }
   },
   {
-   "id": "MHC-0826",
-   "sport": "Baseball",
-   "player": "Emerson Hancock",
-   "team": "Seattle Mariners",
-   "year": "2024",
-   "set": "Topps Heritage",
-   "variation": "Chrome Black Refractor",
-   "cardNo": "320",
-   "printRun": 75,
-   "serial": null,
-   "ssp": false,
-   "rc": false,
-   "grade": null,
-   "cert": null,
-   "tags": [
-    "Starting Nine"
-   ],
-   "top100": null,
-   "acquired": "2026-04-15",
-   "photos": {
-    "front": "img/cards/MHC-0826/front.jpg",
-    "frontThumb": "img/cards/MHC-0826/front-thumb.jpg",
-    "back": "img/cards/MHC-0826/back.jpg",
-    "backThumb": "img/cards/MHC-0826/back-thumb.jpg"
-   }
-  },
-  {
    "id": "MHC-0827",
    "sport": "Baseball",
    "player": "Matt Olson",
