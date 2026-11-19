@@ -3364,7 +3364,9 @@
    "acquired": "2025-05-20",
    "photos": {
     "front": "img/cards/MHC-0563/front.jpg",
-    "frontThumb": "img/cards/MHC-0563/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0563/front-thumb.jpg",
+    "back": "img/cards/MHC-0563/back.jpg",
+    "backThumb": "img/cards/MHC-0563/back-thumb.jpg"
    }
   },
   {
@@ -3851,7 +3853,9 @@
    "acquired": "2025-08-17",
    "photos": {
     "front": "img/cards/MHC-0621/front.jpg",
-    "frontThumb": "img/cards/MHC-0621/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0621/front-thumb.jpg",
+    "back": "img/cards/MHC-0621/back.jpg",
+    "backThumb": "img/cards/MHC-0621/back-thumb.jpg"
    }
   },
   {
@@ -3988,7 +3992,9 @@
    "acquired": "2025-09-02",
    "photos": {
     "front": "img/cards/MHC-0635/front.jpg",
-    "frontThumb": "img/cards/MHC-0635/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0635/front-thumb.jpg",
+    "back": "img/cards/MHC-0635/back.jpg",
+    "backThumb": "img/cards/MHC-0635/back-thumb.jpg"
    }
   },
   {
@@ -5196,7 +5202,9 @@
    "acquired": "2026-01-24",
    "photos": {
     "front": "img/cards/MHC-0749/front.jpg",
-    "frontThumb": "img/cards/MHC-0749/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0749/front-thumb.jpg",
+    "back": "img/cards/MHC-0749/back.jpg",
+    "backThumb": "img/cards/MHC-0749/back-thumb.jpg"
    }
   },
   {
@@ -5854,7 +5862,9 @@
    "acquired": "2026-03-17",
    "photos": {
     "front": "img/cards/MHC-0790/front.jpg",
-    "frontThumb": "img/cards/MHC-0790/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0790/front-thumb.jpg",
+    "back": "img/cards/MHC-0790/back.jpg",
+    "backThumb": "img/cards/MHC-0790/back-thumb.jpg"
    }
   },
   {
@@ -6590,7 +6600,7 @@
    "year": "2026",
    "set": "Topps Heritage",
    "variation": "Red Ink Auto",
-   "cardNo": "",
+   "cardNo": "SBA",
    "printRun": 77,
    "serial": null,
    "ssp": false,
@@ -6608,7 +6618,9 @@
    "acquired": "2026-04-28",
    "photos": {
     "front": "img/cards/MHC-0840/front.jpg",
-    "frontThumb": "img/cards/MHC-0840/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0840/front-thumb.jpg",
+    "back": "img/cards/MHC-0840/back.jpg",
+    "backThumb": "img/cards/MHC-0840/back-thumb.jpg"
    }
   },
   {
@@ -6795,7 +6807,9 @@
    "acquired": "2026-05-13",
    "photos": {
     "front": "img/cards/MHC-0856/front.jpg",
-    "frontThumb": "img/cards/MHC-0856/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0856/front-thumb.jpg",
+    "back": "img/cards/MHC-0856/back.jpg",
+    "backThumb": "img/cards/MHC-0856/back-thumb.jpg"
    }
   },
   {
@@ -8114,7 +8128,9 @@
    "acquired": "2026-06-25",
    "photos": {
     "front": "img/cards/MHC-0936/front.jpg",
-    "frontThumb": "img/cards/MHC-0936/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0936/front-thumb.jpg",
+    "back": "img/cards/MHC-0936/back.jpg",
+    "backThumb": "img/cards/MHC-0936/back-thumb.jpg"
    }
   },
   {
@@ -8533,7 +8549,7 @@
    "player": "Maikel Garcia",
    "team": "Kansas City Royals",
    "year": "2023",
-   "set": "Topps",
+   "set": "Topps Update",
    "variation": "Golden Mirror",
    "cardNo": "US144",
    "printRun": null,
@@ -8553,7 +8569,9 @@
    "acquired": "2026-07-05",
    "photos": {
     "front": "img/cards/MHC-0963/front.jpg",
-    "frontThumb": "img/cards/MHC-0963/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-0963/front-thumb.jpg",
+    "back": "img/cards/MHC-0963/back.jpg",
+    "backThumb": "img/cards/MHC-0963/back-thumb.jpg"
    }
   },
   {
@@ -9265,7 +9283,9 @@
    "acquired": "2026-07-22",
    "photos": {
     "front": "img/cards/MHC-1009/front.jpg",
-    "frontThumb": "img/cards/MHC-1009/front-thumb.jpg"
+    "frontThumb": "img/cards/MHC-1009/front-thumb.jpg",
+    "back": "img/cards/MHC-1009/back.jpg",
+    "backThumb": "img/cards/MHC-1009/back-thumb.jpg"
    }
   },
   {
@@ -14054,6 +14074,31 @@
     "frontThumb": "img/cards/MHC-1324/front-thumb.jpg",
     "back": "img/cards/MHC-1324/back.jpg",
     "backThumb": "img/cards/MHC-1324/back-thumb.jpg"
+   }
+  },
+  {
+   "id": "MHC-1325",
+   "sport": "Baseball",
+   "player": "Felix Hernandez / Bryan Woo",
+   "team": "Seattle Mariners / Seattle Mariners",
+   "year": "2026",
+   "set": "Topps Allen & Ginter",
+   "variation": "Dual Auto Patch Purple Filigree",
+   "cardNo": "AGDAR-HW",
+   "printRun": 1,
+   "serial": null,
+   "ssp": false,
+   "rc": false,
+   "grade": null,
+   "cert": null,
+   "tags": [],
+   "top100": null,
+   "acquired": "2026-11-08",
+   "photos": {
+    "front": "img/cards/MHC-1325/front.jpg",
+    "frontThumb": "img/cards/MHC-1325/front-thumb.jpg",
+    "back": "img/cards/MHC-1325/back.jpg",
+    "backThumb": "img/cards/MHC-1325/back-thumb.jpg"
    }
   }
  ]
